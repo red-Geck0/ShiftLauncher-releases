@@ -13,7 +13,11 @@ big-picture interface designed for gamepad navigation.
 
 ## Download
 
-Grab the latest installer from the [Releases](../../releases) page and run the
+**Recommended:** get it from the
+[Microsoft Store](https://apps.microsoft.com/detail/9PJW4XLWDJLR) — it installs
+and updates automatically.
+
+Or grab the latest installer from the [Releases](../../releases) page and run the
 `.msi` file.
 
 ## System Requirements
