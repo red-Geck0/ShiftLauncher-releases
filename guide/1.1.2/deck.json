@@ -1,0 +1,45 @@
+{
+  "id": "1.1.2",
+  "version": "1.1.2",
+  "kicker": "What's new",
+  "title": "GOG Galaxy, playtime tracking, launch popup",
+  "badge": "New in 1.1.2",
+  "cards": [
+    {
+      "id": "gog",
+      "title": "GOG Galaxy catalog",
+      "body": "Browse the games you own but have not installed, and install them from here. There is a *Promos* tab too, for discounts and giveaways.\n\nIt needs the GOG Galaxy app on the device.",
+      "art": { "icons": ["gog"], "label": "[VIEW] catalog picker" }
+    },
+    {
+      "id": "playtime",
+      "title": "Playtime tracking",
+      "body": "Every game is tracked automatically, except for anything tagged *tools*. You can switch tracking off per game from the game menu.",
+      "art": { "glyph": ["X"], "label": "game menu" }
+    },
+    {
+      "id": "launch-popup",
+      "title": "A launch popup that tells you something",
+      "body": "Confirming a launch now shows the game's playtime, its tags and the plugins enabled for it.\n\nTurn the popup on or off in *Settings > General > App*.",
+      "art": { "glyph": ["A"] }
+    },
+    {
+      "id": "rename",
+      "title": "Rename from the game menu",
+      "body": "Custom apps and games can be renamed in place, without leaving the grid.",
+      "art": { "glyph": ["X"], "label": "game menu" }
+    },
+    {
+      "id": "accounts",
+      "title": "Settings, reorganised",
+      "body": "*Settings > Account* is one list now, with a sub-page per store. The store section of the game menu covers Battle.net and GOG as well.\n\nConfirmations that offer several choices are a list of rows instead of buttons side by side.",
+      "art": { "icons": ["steam", "epic", "gog", "xbox"] }
+    },
+    {
+      "id": "fixes",
+      "title": "And the fixes",
+      "body": "Faster loading for the Steam catalog, the Xbox Game Pass *Coming* date now comes from the right place, and a pile of flicker, focus and animation bugs went with it.",
+      "art": { "icons": ["xbox"] }
+    }
+  ]
+}
