@@ -9,8 +9,7 @@
       "title": "How many people are playing, right now",
       "body": "The launch popup carries a live player count from Steam, for every game in your library rather than only the Steam ones.\n\nThe popup itself is optional: turn it on in *Settings > General > App*.",
       "art": {
-        "icons": ["steam"],
-        "label": "launch popup"
+        "image": "player-count.webp"
       }
     },
     {
@@ -18,7 +17,16 @@
       "title": "A launch screen worth looking at",
       "body": "Starting a game now fills the screen with its artwork, animated, with a line of text picked at random while you wait.",
       "art": {
-        "glyph": ["A"]
+        "images": [
+          {
+            "image": "launch-screen-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "launch-screen-after.webp",
+            "label": "After"
+          }
+        ]
       }
     },
     {
@@ -26,8 +34,7 @@
       "title": "Official Steam artwork as a fallback",
       "body": "A game with no community artwork now falls back to the official art from its store page.\n\nThe Artwork Picker shows those too, labelled *official*.",
       "art": {
-        "glyph": ["X"],
-        "label": "game menu > artwork"
+        "image": "official-art.webp"
       }
     },
     {
@@ -35,8 +42,7 @@
       "title": "Idle hiding, on your terms",
       "body": "*Hide games on inactivity* used to be on or off. It now takes a delay anywhere between 5 and 15 seconds, or none at all.",
       "art": {
-        "glyph": ["MENU"],
-        "label": "Settings > Visuals"
+        "image": "idle-delay.webp"
       }
     },
     {
@@ -44,7 +50,9 @@
       "title": "A quieter Steam",
       "body": "Shift now keeps the Steam client from appearing on top of you when it launches a game or switches accounts.\n\nSteam catalog: a game that has not shipped yet carries a *Coming* badge with its date.",
       "art": {
-        "icons": ["steam"]
+        "icons": [
+          "steam"
+        ]
       }
     },
     {
@@ -52,7 +60,10 @@
       "title": "And the smaller things",
       "body": "The left stick and the keyboard arrows now hold and repeat the way the [DPAD] always did, plus the usual round of performance work, bug fixes and polish.",
       "art": {
-        "glyph": ["LS", "DPAD"]
+        "glyph": [
+          "LS",
+          "DPAD"
+        ]
       }
     }
   ],
