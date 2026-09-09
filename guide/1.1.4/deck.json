@@ -3,43 +3,67 @@
   "version": "1.1.4",
   "kicker": "What's new",
   "title": "Live player count and a new launch screen",
-  "badge": "New in 1.1.4",
   "cards": [
     {
       "id": "player-count",
       "title": "How many people are playing, right now",
       "body": "The launch popup carries a live player count from Steam, for every game in your library rather than only the Steam ones.\n\nThe popup itself is optional: turn it on in *Settings > General > App*.",
-      "art": { "icons": ["steam"], "label": "launch popup" }
+      "art": {
+        "icons": ["steam"],
+        "label": "launch popup"
+      }
     },
     {
       "id": "launch-screen",
       "title": "A launch screen worth looking at",
       "body": "Starting a game now fills the screen with its artwork, animated, with a line of text picked at random while you wait.",
-      "art": { "glyph": ["A"] }
+      "art": {
+        "glyph": ["A"]
+      }
     },
     {
       "id": "official-art",
       "title": "Official Steam artwork as a fallback",
       "body": "A game with no community artwork now falls back to the official art from its store page.\n\nThe Artwork Picker shows those too, labelled *official*.",
-      "art": { "glyph": ["X"], "label": "game menu > artwork" }
+      "art": {
+        "glyph": ["X"],
+        "label": "game menu > artwork"
+      }
     },
     {
       "id": "idle-delay",
       "title": "Idle hiding, on your terms",
       "body": "*Hide games on inactivity* used to be on or off. It now takes a delay anywhere between 5 and 15 seconds, or none at all.",
-      "art": { "glyph": ["MENU"], "label": "Settings > Visuals" }
+      "art": {
+        "glyph": ["MENU"],
+        "label": "Settings > Visuals"
+      }
     },
     {
       "id": "quieter-steam",
       "title": "A quieter Steam",
       "body": "Shift now keeps the Steam client from appearing on top of you when it launches a game or switches accounts.\n\nSteam catalog: a game that has not shipped yet carries a *Coming* badge with its date.",
-      "art": { "icons": ["steam"] }
+      "art": {
+        "icons": ["steam"]
+      }
     },
     {
       "id": "more",
       "title": "And the smaller things",
       "body": "The left stick and the keyboard arrows now hold and repeat the way the [DPAD] always did, plus the usual round of performance work, bug fixes and polish.",
-      "art": { "glyph": ["LS", "DPAD"] }
+      "art": {
+        "glyph": ["LS", "DPAD"]
+      }
     }
+  ],
+  "changelog": [
+    "New: Live Steam player count in the launch popup. The data is taken from the Steam API and applied to all games, including non-Steam ones. You have to enable launch confirmation in Settings > General > App.",
+    "New: Revamped launch screen. Now with animated fullscreen artwork and some random text.",
+    "New: Official Steam artwork as a fallback. Games with no community artwork now use the official art from their store page. The Artwork Picker page shows it too, labelled *official*.",
+    "Adjustable idle delay. \"Hide games on inactivity\" can now be set anywhere from 5 to 15 seconds, or turned off. It used to be just on or off.",
+    "Suppressed Steam's UI in some scenarios. Shift now tries to prevent the Steam client from showing up when launching a game or switching accounts.",
+    "Left analog stick and keyboard arrows now do hold/burst navigation, just like the d-pad.",
+    "Steam catalog: unreleased games now carry a \"Coming\" badge with their date.",
+    "Several other performance improvements, bug fixes, and UI polish."
   ]
 }
