@@ -9,7 +9,7 @@
       "title": "Recently played & Most played",
       "body": "Now that Shift keeps playtime, two tags build themselves: *Recently played* and *Most played*.\n\nThey behave like any other category tab. Hide or show them in *Settings > Library > Tag Manager*.",
       "art": {
-        "glyph": ["LB", "RB"]
+        "image": "playtime-tags.webp"
       }
     },
     {
@@ -17,8 +17,7 @@
       "title": "A clock on the grid",
       "body": "Turn it on in *Settings > Visuals > General*. It follows the time format Windows is already set to, so it matches the rest of the device.",
       "art": {
-        "glyph": ["MENU"],
-        "label": "Settings > Visuals"
+        "image": "clock.webp"
       }
     },
     {
@@ -26,8 +25,7 @@
       "title": "Playtime you can trust",
       "body": "Shift now combines its own tracking with the records Steam and Epic already keep, and a session survives a restart instead of being lost.",
       "art": {
-        "glyph": ["X"],
-        "label": "game menu"
+        "image": "playtime-accuracy.webp"
       }
     },
     {
@@ -35,8 +33,7 @@
       "title": "Dates and stores follow your region",
       "body": "Release dates and store regions across the catalogs now read your Windows regional settings instead of assuming one locale.\n\nSteam release date lookups got faster too, and a game waiting on a patch carries an *Update available* badge.",
       "art": {
-        "icons": ["steam", "epic", "xbox", "gog"],
-        "label": "[VIEW] catalog picker"
+        "image": "region.webp"
       }
     },
     {
@@ -44,7 +41,7 @@
       "title": "Games that need admin rights",
       "body": "Apps and games that require administrator rights can now be launched from Shift instead of failing silently.",
       "art": {
-        "glyph": ["A"]
+        "image": "admin.webp"
       }
     },
     {
@@ -52,7 +49,9 @@
       "title": "And a pile of smaller things",
       "body": "A reworked menu focus colour for better visibility, rearranged button hints, battery and clock, plus performance work and bug fixes that did not need a card of their own.\n\nEvery earlier version has a deck of its own in *Settings > App Info > Feature Guide*.",
       "art": {
-        "glyph": ["MENU"],
+        "glyph": [
+          "MENU"
+        ],
         "label": "Settings > General"
       }
     }
