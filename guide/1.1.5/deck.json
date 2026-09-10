@@ -47,7 +47,7 @@
     {
       "id": "more",
       "title": "And a pile of smaller things",
-      "body": "A reworked menu focus colour for better visibility, rearranged button hints, battery and clock, plus performance work and bug fixes that did not need a card of their own.\n\nEvery earlier version has a deck of its own in *Settings > App Info > Feature Guide*.",
+      "body": "A reworked menu focus colour for better visibility, rearranged button hints, battery and clock, plus performance work and bug fixes that did not need a card of their own.\n\nEvery earlier version has a deck of its own in *Settings > Info > Feature Guide*.",
       "art": {
         "glyph": [
           "MENU"
