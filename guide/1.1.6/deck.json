@@ -5,67 +5,27 @@
   "title": "Focus shortcut, guided tour, smoother themes",
   "cards": [
     {
-      "id": "focus-shortcut",
-      "title": "Bring Shift back with the controller",
-      "body": "Pick a shortcut in *Settings > General > Focus shortcut* and Shift comes to the front from anywhere: a running game, the desktop, another app.\n\nDouble-tap [VIEW] or [MENU], or hold one of them. The trigger button stops reaching whatever was in front, so a double-tap does not open a game's own menu on the way.",
-      "art": {
-        "glyph": [
-          "VIEW",
-          "MENU"
-        ]
-      }
-    },
-    {
       "id": "guide",
       "title": "A tour, and this deck",
-      "body": "New here? *Settings > App Info > Feature Guide* runs a Welcome Tour that walks the actual screen and points at things as it explains them.\n\nThe same page keeps a deck for each of the last few versions, so what's new is not gone once you dismiss it.",
+      "body": "What's new? this tour deck is!\nFrom now on every new feature will be introduced this way for better understanding.\n\nYou can replay this changelog tour - along with brand new *Welcome Tour* - whenever you like.   ",
       "art": {
-        "glyph": [
-          "MENU"
-        ],
-        "label": "Settings > App Info"
+        "image": "guide.webp"
       }
     },
     {
-      "id": "themes",
-      "title": "Themes that settle down",
-      "body": "Shelf now shows a shimmer while it loads instead of an empty shelf, a logo waits until its image is ready rather than popping in, and focus follows you when you switch themes.\n\nMenus got a backdrop blur, and the Visuals tab scrolls when it runs out of room.",
+      "id": "info-tab",
+      "title": "Info Tab",
+      "body": "We moved around some Setting items into a new tab: *Info* tab.\n\nHere you can view credits, support & feedback sections.\nMore importantly, you can check and replay Welcome Tour and version changelog tour decks in *Feature Guide* sub-page \n",
       "art": {
-        "glyph": [
-          "MENU"
-        ],
-        "label": "Settings > Visuals"
+        "image": "touch.webp"
       }
     },
     {
-      "id": "touch",
-      "title": "Touch and mouse",
-      "body": "Swiping the grid works again, and it is limited to the themes that scroll sideways so a vertical grid no longer fights you.\n\nThe launch popup's hints are clickable, and the cursor only hides once the controller is actually used.",
+      "id": "focus-shortcut",
+      "title": "Bring Shift back with the controller",
+      "body": "Pick a shortcut in *Settings > General > Focus shortcut* and Shift comes to the front from anywhere: a running game, the desktop, another app.\n\nDouble-tap [VIEW] or [MENU], or hold one of them.",
       "art": {
-        "glyph": [
-          "A"
-        ]
-      }
-    },
-    {
-      "id": "library",
-      "title": "Library and playtime",
-      "body": "The whole Library tab scrolls now, not just the tag list, so the Tag Manager stays usable on a short screen.\n\nA game that is still installing no longer counts as recently played, and a single press is no longer read as two.",
-      "art": {
-        "glyph": [
-          "MENU"
-        ],
-        "label": "Settings > Library"
-      }
-    },
-    {
-      "id": "more",
-      "title": "And the rest",
-      "body": "Steam release dates are cached and fetched more steadily, several tabs stopped getting stuck on a sub-page, and there is the usual round of fixes from testing on the handheld.\n\nEvery earlier version has a deck of its own in *Settings > App Info > Feature Guide*.",
-      "art": {
-        "icons": [
-          "steam"
-        ]
+        "image": "focus-shortcut.webp"
       }
     }
   ],

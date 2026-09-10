@@ -50,20 +50,7 @@
       "title": "A quieter Steam",
       "body": "Shift now keeps the Steam client from appearing on top of you when it launches a game or switches accounts.\n\nSteam catalog: a game that has not shipped yet carries a *Coming* badge with its date.",
       "art": {
-        "icons": [
-          "steam"
-        ]
-      }
-    },
-    {
-      "id": "more",
-      "title": "And the smaller things",
-      "body": "The left stick and the keyboard arrows now hold and repeat the way the [DPAD] always did, plus the usual round of performance work, bug fixes and polish.",
-      "art": {
-        "glyph": [
-          "LS",
-          "DPAD"
-        ]
+        "image": "quieter-steam.webp"
       }
     }
   ],
