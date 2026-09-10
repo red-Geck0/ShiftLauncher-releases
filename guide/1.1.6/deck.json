@@ -23,16 +23,15 @@
     {
       "id": "focus-shortcut",
       "title": "Bring Shift back with the controller",
-      "body": "Pick a shortcut in *Settings > General > Focus shortcut* and Shift comes to the front from anywhere: a running game, the desktop, another app.\n\nDouble-tap [VIEW] or [MENU], or hold one of them.",
+      "body": "Pick a shortcut in *Settings > General > Focus shortcut* and Shift comes to the front from anywhere: a running game, the desktop, another app.\n\nDouble-tap [VIEW] or [MENU], or tap both of them simultaneously.",
       "art": {
         "image": "focus-shortcut.webp"
       }
     }
   ],
   "changelog": [
-    "New: *Focus shortcut*. Pick a controller shortcut in Settings > General that brings Shift to the front from a game, the desktop, or another app. Double-tap or hold [VIEW] or [MENU]; the trigger button is muted so it does not reach whatever was in front.",
-    "New: *Welcome Tour* and *Feature Guide*, in the new Settings > App Info tab. The tour walks the real screen and points at things as it explains them; the guide keeps a deck for each of the last few versions.",
-    "New: Loading shimmer for the Shelf theme instead of an empty shelf.",
+    "New: *Focus shortcut*. Pick a controller shortcut in Settings > General that brings Shift to the front from a game, the desktop, or another app. Double-tap or hold [VIEW] or [MENU].",
+    "New: *Welcome Tour* and *Feature Guide*, in the new Settings > Info tab. The tour walks the real screen and points at things as it explains them; the guide keeps a deck for each of the last few versions.",
     "Menus got a backdrop blur, the Visuals tab scrolls when it runs out of room, and menu navigation was reweighted.",
     "A logo now waits until its image is ready rather than popping in, and focus follows you when you switch theme.",
     "Swiping the grid works again, and is limited to the themes that scroll sideways.",
