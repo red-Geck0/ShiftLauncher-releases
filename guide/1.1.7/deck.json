@@ -1,0 +1,64 @@
+{
+  "id": "1.1.7",
+  "version": "1.1.7",
+  "kicker": "Kicker goes here",
+  "title": "hay everybody!",
+  "cards": [
+    {
+      "id": "card-1",
+      "title": "kartu 1",
+      "body": "isi kartu 1 *tanpa ada apa apa*"
+    },
+    {
+      "id": "card-2",
+      "title": "kartu 2",
+      "body": "kartu 2 pake skrinshot",
+      "art": {
+        "image": "card-2.webp"
+      }
+    },
+    {
+      "id": "card-3",
+      "title": "kartu 3",
+      "body": "*kartu 3* pake logo xbox",
+      "art": {
+        "icons": [
+          "xbox"
+        ],
+        "label": "ini logo eksbox"
+      }
+    },
+    {
+      "id": "card-4",
+      "title": "kartu 4",
+      "body": "kartu 4 pake label text",
+      "art": {
+        "label": "LABEL TEXT"
+      }
+    },
+    {
+      "id": "card-5",
+      "title": "kartu 5",
+      "body": "kartu 5 ada side-by-side",
+      "art": {
+        "images": [
+          {
+            "image": "card-5-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-5-after.webp",
+            "label": "After"
+          }
+        ]
+      }
+    }
+  ],
+  "changelog": [
+    "New: *Classic theme*, a clean grid-only layout.",
+    "New: Tile gap option in Theme Settings, works across all themes.",
+    "Fixed scrolling hiccups on the Shelf theme.",
+    "Updated retrieval timing for Steam playtime data.",
+    "Several other performance improvements, bug fixes, and UI polish."
+  ]
+}
