@@ -33,7 +33,7 @@
     "New: Dedicated *Info tab* in Settings, holding About, Feature Guide, Support and Feedback (previously buried in General).",
     "New: *Welcome Tour*. First launch now walks you through the interface with highlights over the real controls, fully controller-navigable.",
     "New: The \"What's new\" screen after an update is now an illustrated card deck with button glyphs instead of a plain text list. The full text changelog is still there on the last card.",
-    "New: *Feature Guide* (Settings > App Info). You can replay the Welcome Tour any time plus the \"what's new\" deck for this release and up to five earlier versions.",
+    "New: *Feature Guide* (Settings > Info). You can replay the Welcome Tour any time plus the \"what's new\" deck for this release and up to five earlier versions.",
     "New: *Focus shortcut*. Pull Shift back to the front with a controller combo while it is running behind another app. Set it in Settings > General > App: off, or double-tap Select + Start. It needs Shift to stay running, and stays silent while an app with administrator rights is in front.",
     "New: Shelf theme shows a shimmer placeholder while artwork loads, matching the other themes.",
     "Swipe navigation reworked: the grid now follows your finger one-to-one, on both axes, on every theme.",
