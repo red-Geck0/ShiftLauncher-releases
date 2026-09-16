@@ -5,14 +5,34 @@
   "title": "Per-catalog themes and launch options",
   "cards": [
     {
+      "id": "card-3",
+      "title": "Upcoming Supporter Features",
+      "body": "*A quick note about where Shift is headed*\n\nHonestly, Shift already does more than I imagined when I first started building it for myself. At this point *it covers everything I personally need from a launcher*, and then some.\n\nThat said, I'd still like to keep adding features and fixing things as they come up, and that takes real time to keep up with. So an upcoming update will introduce Supporter Features: a one-time unlock for a set of non-essential extras.\n\nTo be clear about what this means: the core Shift experience, everything that makes it work as your launcher, will always stay free. What becomes part of Supporter Features is stuff on top of that: extra themes and visual customization, and a handful of other non-essential extras, including a few things that are currently existing today.\n\n*This isn't landing right away*, it's still being worked on, and I'll share more details once it's closer to ready.\n\n*Thanks for sticking with Shift*. Feedback and feature requests still matter more than anything else."
+    },
+    {
       "id": "percat-themes",
       "title": "Per-catalog themes",
-      "body": "Each store catalog (Xbox, Steam, Epic, GOG) is a different list of games, and a layout that suits one often doesn't suit another.\n\nTurn on *Per-catalog themes* in *Settings > Visuals > Theme* to give each catalog its own theme and theme settings, separate from the main grid.\n\nOff by default, and a catalog follows the main grid until you change something inside it."
+      "body": "Each store catalog (Xbox, Steam, Epic, GOG) is a different list of games, and a layout that suits one often doesn't suit another.\n\nTurn on *Per-Catalog themes* in *Settings > Visuals > Theme* to give each catalog its own theme and theme settings, separate from the main grid.\n\nOff by default, and a catalog follows the main grid until you change something inside it.",
+      "art": {
+        "image": "percat-themes.webp"
+      }
     },
     {
       "id": "launch-options",
       "title": "Launch options",
-      "body": "Set per-game command-line arguments right from a game's own menu.\n\nOpen *Game Menu > Tools*, then pick from quick preset chips for common flags or type your own.\n\nSupported on Steam, GOG, Xbox, and custom apps."
+      "body": "Set per-game command-line arguments right from a game's own menu.\n\nOpen *Game Menu > Tools*, then pick from quick preset chips for common flags or type your own.\n\nSupported on Steam, GOG, Xbox, and custom apps.",
+      "art": {
+        "images": [
+          {
+            "image": "launch-options-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "launch-options-after.webp",
+            "label": "After"
+          }
+        ]
+      }
     }
   ],
   "changelog": [
