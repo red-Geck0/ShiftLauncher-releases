@@ -1,6 +1,10 @@
 {
   "versions": [
     {
+      "version": "1.1.7",
+      "title": "Per-catalog themes and launch options"
+    },
+    {
       "version": "1.1.6",
       "title": "Focus shortcut, guided tour, smoother themes"
     },
