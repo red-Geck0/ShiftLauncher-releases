@@ -1,0 +1,29 @@
+{
+  "id": "1.1.7",
+  "version": "1.1.7",
+  "kicker": "What's new",
+  "title": "Per-catalog themes and launch options",
+  "cards": [
+    {
+      "id": "percat-themes",
+      "title": "Per-catalog themes",
+      "body": "Each store catalog (Xbox, Steam, Epic, GOG) is a different list of games, and a layout that suits one often doesn't suit another.\n\nTurn on *Per-catalog themes* in *Settings > Visuals > Theme* to give each catalog its own theme and theme settings, separate from the main grid.\n\nOff by default, and a catalog follows the main grid until you change something inside it."
+    },
+    {
+      "id": "launch-options",
+      "title": "Launch options",
+      "body": "Set per-game command-line arguments right from a game's own menu.\n\nOpen *Game Menu > Tools*, then pick from quick preset chips for common flags or type your own.\n\nSupported on Steam, GOG, Xbox, and custom apps."
+    }
+  ],
+  "changelog": [
+    "New: *Per-catalog theme + settings*, check out Settings > Visuals > Theme, off by default.",
+    "New: *Launch options*. Per-game command-line args from Game Menu > Tools.",
+    "Shelf theme: store-logo shimmer while loading, and a title placeholder for games with no artwork at all.",
+    "Fixed a second controller occasionally going dead right after Shift refocuses.",
+    "Fixed a catalog's background sometimes staying on screen after leaving it.",
+    "Fixed Epic forcing re-sign-in when just offline/slow, plus other slow-connection fixes.",
+    "Fixed REFramework detection (Onimusha WotS etc.) and its _storage_ shadow folder.",
+    "Welcome Tour: highlights are now more reliable when flipping cards quickly.",
+    "Several other bug fixes, and UI polish."
+  ]
+}
