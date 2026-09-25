@@ -6,8 +6,8 @@
   "cards": [
     {
       "id": "card-1",
-      "title": "File picker, System Info, per-game HDR",
-      "body": "*A placeholder while this version's cards are being prepared.*\n\nOpen Full Changelog for everything that changed in 1.1.8."
+      "title": "Upcoming Supporter Features",
+      "body": "*A quick note on where Shift is headed*\n\nShift already covers everything I personally need from a launcher, and then some. I still want to keep adding features and fixing things though, and that takes real time.\n\nSo the next update will most likely introduce Supporter Features: a one-time unlock for a set of non-essential extras.\n\nThe core experience, everything that makes Shift work as your launcher, stays free forever. Here's what's moving into Supporter Features:\n\nNew themes going forward (*Wall theme* is leading the charge)\nXbox Game Pass browsing and other catalog promos (existing feature)\nA new catalog : *Release Calendar*\nDifferent theme per catalog (existing feature)\nExtra focus color options and custom backgrounds (existing feature)\nThe controller focus shortcut (existing feature)\n\nDetails and pricing are still being finalized, more soon.\n\nThanks for sticking with Shift. Feedback and feature requests still matter more than anything else."
     }
   ],
   "changelog": [
