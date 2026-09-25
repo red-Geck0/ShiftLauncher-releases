@@ -1,0 +1,23 @@
+{
+  "id": "1.1.8",
+  "version": "1.1.8",
+  "kicker": "What's new",
+  "title": "File picker, System Info, per-game HDR",
+  "changelog": [
+    "New: *Two-pane file picker*. A sidebar with Quick access shortcuts and drives beside the folder you are browsing, used by the artwork From file view too. It remembers the last folder per file type and puts the cursor back on the folder you just left.",
+    "New: Settings > Info > *System Info*, with your device model, OS, CPU, RAM, GPU, each display's resolution, refresh rate and HDR state, and whether Shift is running as administrator.",
+    "New: *Per-game HDR*. Set On, Off or Unchanged from Game Menu > Tools. Applied before launch and restored when the game exits.",
+    "New: *DLSS debug overlay* toggle per game [EXPERIMENTAL] (NVIDIA only, needs Shift run as administrator).",
+    "The launch popup now shows HDR and DLSS overlay under Launch options.",
+    "Opening a store page, a library or a sign-in link now steps Shift aside so the app or browser is actually in front. The Xbox sign-in code is copied to the clipboard on the way out.",
+    "Fresh installs now default to the *360x* theme with a 2-row grid, and the launch confirmation popup is on from the start.",
+    "Fixed Steam profile pictures staying a silhouette. They now load without a Web API key.",
+    "Fixed custom artwork sometimes not saving, reverting after a restart, or still showing the old picture after replacing it.",
+    "Fixed the UI never auto-hiding with some controllers that report a stuck axis.",
+    "Fixed changing artwork in the Shelf theme shifting focus to the first tile.",
+    "Fixed the Welcome Tour getting stuck on the launch popup card.",
+    "Fixed a slow first launch on a fresh install: artwork now finishes loading in the background after boot instead of blocking it.",
+    "Fixed webview data (cache, cookies, local storage) landing in a separate folder that MSIX uninstall never cleaned up.",
+    "Several other bug fixes, performance improvements, and UI polish."
+  ]
+}
