@@ -7,7 +7,32 @@
     {
       "id": "card-1",
       "title": "Upcoming Supporter Features",
-      "body": "*A quick note on where Shift is headed*\n\nShift already covers everything I personally need from a launcher, and then some. I still want to keep adding features and fixing things though, and that takes real time.\n\nSo the next update will most likely introduce Supporter Features: a one-time unlock for a set of non-essential extras.\n\nThe core experience, everything that makes Shift work as your launcher, stays free forever. Here's what's moving into Supporter Features:\n\nNew themes going forward (*Wall theme* is leading the charge)\nXbox Game Pass browsing and other catalog promos (existing feature)\nA new catalog : *Release Calendar*\nDifferent theme per catalog (existing feature)\nExtra focus color options and custom backgrounds (existing feature)\nThe controller focus shortcut (existing feature)\n\nDetails and pricing are still being finalized, more soon.\n\nThanks for sticking with Shift. Feedback and feature requests still matter more than anything else."
+      "body": "*A quick note on where Shift is headed*\n\nShift already covers everything I personally need from a launcher, and then some. I still want to keep adding features and fixing things though, and that takes real time.\n\nSo the next update will most likely introduce Supporter Features: a one-time unlock for a set of non-essential extras.\n\nThe core experience, everything that makes Shift work as your launcher, stays free forever. Here's what's moving into Supporter Features:\n\nNew themes going forward (*Wall theme* is leading the charge)\nXbox Game Pass browsing and other catalog promos (existing feature)\nA new catalog: *Release Calendar*\nDifferent theme per catalog (existing feature)\nExtra focus color options and custom backgrounds (existing feature)\nThe controller focus shortcut (existing feature)\n\nDetails and pricing are still being finalized, more details coming soon.\n\nThanks for sticking with Shift. Feedback and feature requests still matter more than anything else."
+    },
+    {
+      "id": "card-2",
+      "title": "Revamped File Picker",
+      "body": "*Two-pane file picker* \nEvery file picker, including artwork picker, now has a sidebar with shortcuts to common folders on your PC. It remembers the last folder per file type and puts the cursor back on the folder you just left.",
+      "art": {
+        "images": [
+          {
+            "image": "card-2-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-2-after.webp",
+            "label": "After"
+          }
+        ]
+      }
+    },
+    {
+      "id": "card-3",
+      "title": "HDR and DLSS overlay per game",
+      "body": "New options on [X] *Game Menu > Tools*\\n\nHDR & DLSS debug overlay (experimental) toggle. Set them to On, Off or Unchanged.\nApplied before launch and restored when the game exits. ",
+      "art": {
+        "image": "card-3.webp"
+      }
     }
   ],
   "changelog": [
