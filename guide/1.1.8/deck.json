@@ -29,7 +29,7 @@
     {
       "id": "card-3",
       "title": "HDR and DLSS overlay per game",
-      "body": "New options on [X] *Game Menu > Tools*\\n\nHDR & DLSS debug overlay (experimental) toggle. Set them to On, Off or Unchanged.\nApplied before launch and restored when the game exits. ",
+      "body": "New options on [X] *Game Menu > Tools*\nHDR & DLSS debug overlay (experimental) toggle. Set them to On, Off or Unchanged.\nApplied before launch and restored when the game exits. ",
       "art": {
         "image": "card-3.webp"
       }
