@@ -1,6 +1,10 @@
 {
   "versions": [
     {
+      "version": "1.1.8",
+      "title": "File picker, System Info, per-game HDR"
+    },
+    {
       "version": "1.1.7",
       "title": "Per-catalog themes and launch options"
     },
