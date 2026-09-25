@@ -3,6 +3,7 @@
   "version": "1.1.8",
   "kicker": "What's new",
   "title": "File picker, System Info, per-game HDR",
+  "cards": [],
   "changelog": [
     "New: *Two-pane file picker*. A sidebar with Quick access shortcuts and drives beside the folder you are browsing, used by the artwork From file view too. It remembers the last folder per file type and puts the cursor back on the folder you just left.",
     "New: Settings > Info > *System Info*, with your device model, OS, CPU, RAM, GPU, each display's resolution, refresh rate and HDR state, and whether Shift is running as administrator.",
