@@ -148,3 +148,4 @@ footer .links { display: flex; flex-wrap: wrap; gap: 18px; margin-left: auto; }
   .nav { gap: 14px; }
   footer .links { margin-left: 0; }
 }
+footer .disclaimer { flex-basis: 100%; margin: 4px 0 0; font-size: 12.5px; line-height: 1.5; opacity: 0.8; }
