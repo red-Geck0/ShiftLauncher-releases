@@ -1,0 +1,56 @@
+{
+  "id": "1.1.9",
+  "version": "1.1.9",
+  "kicker": "What's new",
+  "title": "Supporter Pack release",
+  "cards": [
+    {
+      "id": "card-1",
+      "title": "Supporter Pack",
+      "body": "",
+      "art": {
+        "image": "card-1.webp"
+      }
+    },
+    {
+      "id": "card-2",
+      "title": "Release Calendar",
+      "body": "*Release Calendar* (Supporter Pack). View upcoming games from Steam and Epic, grouped by week, month or year, with Steam’s most anticipated rank, Early Access and Free to Play badges, and a short trailer on the game in focus.",
+      "art": {
+        "image": "card-2.webp"
+      }
+    }
+  ],
+  "changelog": [
+    "New: *Supporter Pack*, a one-time unlock for extras, in Settings > Info > Supporter Pack.",
+    "New: *Release Calendar* (Supporter Pack). Upcoming games from Steam and Epic, grouped by week, month or year, with Steam’s most anticipated rank, Early Access and Free to Play badges, and a short trailer on the game in focus.",
+    "New: *Wall theme* (Supporter Pack). A full-screen wall of covers tilted back in 3D, one row per tab, each row scrolling on its own.",
+    "New: *Focus color editor* (Supporter Pack). Press A on Grid tile or Menu focus color in Settings > Visuals to recolor any preset with Hue, Saturation and Brightness or a hex code.",
+    "New: *Power menu* (sleep, restart, shutdown, etc). Click the left stick (L3) from anywhere in Shift, or click its hint at the bottom left.",
+    "New: *Automatic updates* for the GitHub version. Turn the download off or check by hand in Settings > Info > Software update. The Microsoft Store version keeps updating through the Store.",
+    "Moving into the Supporter Pack: browsing Game Pass in the Xbox catalog, per-catalog themes, focus colors beyond the five free presets for grid tiles and for menus, custom backgrounds, the controller focus shortcut, the Promos tab in the Epic catalog and the Deals tab in the GOG catalog. Your own Xbox library (the Not installed tab) stays free, and nothing you set up is deleted: unlocking brings it all back as it was.",
+    "Added Open/install in EA app button for EA Play games in the Game Pass catalog.",
+    "Added NVIDIA app, Intel Graphics Software and AMD Software: Adrenalin Edition show up in Tools when installed. Several tools also got their own logo.",
+    "Shift now runs borderless fullscreen instead of maximized, so the taskbar no longer shows on the desktop.",
+    "Restart app moved from Settings > General to the power menu, as Restart Shift.",
+    "Some improvements on the installer for the GitHub version.",
+    "The Xbox sign-in page opens right away, and notifications use your menu focus color and slide in from the bottom.",
+    "Applied virtualization on themes, so moving and scrolling stay smooth with thousands of games.",
+    "Game Pass and Xbox library artwork is now sized to the tile, and the virtual keyboard got clearer icons.",
+    "Launching a game no longer freezes Shift while the store app starts, and opening Steam store details in the catalog, the Store app list in Add app, or play time no longer stalls the menus.",
+    "Sign-ins for Epic, Xbox and GOG are now stored encrypted for your Windows account. You stay signed in after updating.",
+    "Tighter security: Shift’s interface runs only its own code and can read only image and video files from your drives.",
+    "The log file is now capped at 1 MB.",
+    "Fixed controller input: nothing happening after the handheld woke from a long sleep, buttons staying pressed after a controller was unplugged, and the virtual keyboard typing by itself while a button was held.",
+    "Fixed dates and numbers not following the Windows regional format.",
+    "Fixed the launch screen missing a game’s live player count and the launch popup being cut off in the side-by-side layout.",
+    "Fixed Game Menu > Open game folder opening Explorer without focus, and the Game Menu header keeping the old logo after you changed it.",
+    "Fixed saving settings causing a short stall.",
+    "Fixed Epic games not starting while the Epic launcher was closed, also when Shift runs as administrator, and the Epic Games Store tile in Tools doing nothing.",
+    "Fixed Battle.net games not starting while the Battle.net app was closed, and games staying behind the Battle.net window.",
+    "Fixed Settings in Tools bringing up the Microsoft Store instead, after both had been opened.",
+    "Fixed play time and per-game settings like HDR being skipped for Steam games started through an account switch.",
+    "Fixed backgrounds not showing for files in a folder with an apostrophe in its name.",
+    "Several other bug fixes, performance improvements, and UI polish."
+  ]
+}
