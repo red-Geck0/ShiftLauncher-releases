@@ -7,7 +7,7 @@
     {
       "id": "card-1",
       "title": "Supporter Pack",
-      "body": "",
+      "body": "*The Supporter Pack* is an optional one-time purchase, no subscription, that unlocks extra features and helps fund development.\n\nWhat you get:\nPromotional tabs on store catalogs, including the full PC Game Pass library\nRelease calendar across Steam, Epic and Game Pass\nNew themes, starting with Wall, plus every theme added later\nA different theme for each catalog\nMore focus colors for grid tiles and menus\nController shortcut to jump back to Shift from a game or the desktop\nNew perks as they ship, at no extra cost",
       "art": {
         "image": "card-1.webp"
       }
@@ -18,6 +18,47 @@
       "body": "*Release Calendar* (Supporter Pack). View upcoming games from Steam and Epic, grouped by week, month or year, with Steam’s most anticipated rank, Early Access and Free to Play badges, and a short trailer on the game in focus.",
       "art": {
         "image": "card-2.webp"
+      }
+    },
+    {
+      "id": "card-3",
+      "title": "Wall theme",
+      "body": "*Wall theme* (Supporter Pack). A full-screen wall of covers tilted back in 3D, one row per tab, each row scrolling on its own.\n2 types of effect and an option to make it infinite vertically. Adjust it to your liking.\n",
+      "art": {
+        "image": "card-3.webp"
+      }
+    },
+    {
+      "id": "card-4",
+      "title": "Freedom of colors",
+      "body": "*Focus color editor* (Supporter Pack). Press A on Grid tile or Menu focus color in Settings > Visuals to recolor any preset with Hue, Saturation and Brightness or a hex code.\n",
+      "art": {
+        "images": [
+          {
+            "image": "card-4-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-4-after.webp",
+            "label": "After"
+          }
+        ]
+      }
+    },
+    {
+      "id": "card-5",
+      "title": "Power menu",
+      "body": "*Power menu* (sleep, restart, shutdown, etc). Click the left stick [LS] from anywhere in Shift, or click its hint at the bottom left.\n",
+      "art": {
+        "image": "card-5.webp"
+      }
+    },
+    {
+      "id": "card-6",
+      "title": "Automatic updates",
+      "body": "*Automatic updates* for the GitHub version. Turn the download off or check by hand in Settings > Info > Software update. The Microsoft Store version keeps updating through the Store.",
+      "art": {
+        "image": "card-6.webp"
       }
     }
   ],
