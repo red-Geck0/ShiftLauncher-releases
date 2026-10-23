@@ -7,7 +7,7 @@
     {
       "id": "card-1",
       "title": "Supporter Pack",
-      "body": "*The Supporter Pack* is an optional one-time purchase, no subscription, that unlocks extra features and helps fund development.\n\nWhat you get:\nPromotional tabs on store catalogs, including the full PC Game Pass library\nRelease calendar across Steam, Epic and Game Pass\nNew themes, starting with Wall, plus every theme added later\nA different theme for each catalog\nMore focus colors for grid tiles and menus\nController shortcut to jump back to Shift from a game or the desktop\nNew perks as they ship, at no extra cost",
+      "body": "*The Supporter Pack* is an optional one-time purchase, no subscription, that unlocks extra features and helps fund development.\n\nWhat you get:\n- Promotional tabs on store catalogs, including PC Game Pass library\n- Release calendar across Steam, Epic and Game Pass\n- New themes, starting with Wall, plus every theme added later\n- A different theme for each catalog\n- More focus colors for grid tiles and menus\n- Controller shortcut to jump back to Shift from a game or the desktop\n- New perks as they ship, at no extra cost",
       "art": {
         "image": "card-1.webp"
       }
@@ -48,7 +48,7 @@
     {
       "id": "card-5",
       "title": "Power menu",
-      "body": "*Power menu* (sleep, restart, shutdown, etc). Click the left stick [LS] from anywhere in Shift, or click its hint at the bottom left.\n",
+      "body": "*Power menu* (sleep, restart, shutdown, etc). Click the left stick (L3) from anywhere in Shift, or click its hint at the bottom left.\n",
       "art": {
         "image": "card-5.webp"
       }
