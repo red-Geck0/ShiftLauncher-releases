@@ -1,8 +1,6 @@
 <div align="center">
 
-<img src="docs/img/favicon.png" alt="Shift" width="96" height="96">
-
-# Shift
+<img src="docs/img/logo.png" alt="Shift" width="360">
 
 **Your whole library, one controller away.**
 
@@ -59,8 +57,6 @@ A controller-first game launcher for Windows handhelds, built for the Xbox Full 
 | --- | --- | --- |
 | **[Microsoft Store](https://apps.microsoft.com/detail/9PJW4XLWDJLR)** (recommended) | Automatic | Signed by Microsoft, nothing to configure. |
 | **[GitHub Releases](../../releases/latest)** | Built-in updater | Download the `.msi` and run it. |
-
-Download counts above only cover GitHub. Installs from the Microsoft Store are counted separately.
 
 ## System requirements
 
