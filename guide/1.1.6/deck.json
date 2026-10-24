@@ -43,5 +43,53 @@
     "Faster, more reliable Steam release-date lookups.",
     "Clear cache now asks for confirmation.",
     "Several other performance improvements, bug fixes, and UI polish."
-  ]
+  ],
+  "translations": {
+    "fr": {
+      "What's new": "Quoi de neuf",
+      "Focus shortcut, guided tour, smoother themes": "Raccourci de focus, visite guidée, thèmes plus fluides",
+      "A tour, and this deck": "Une visite, et ces cartes",
+      "What's new? this tour deck is!\nFrom now on every new feature will be introduced this way for better understanding.\n\nYou can replay this changelog tour - along with brand new *Welcome Tour* - whenever you like.   ": "Quoi de neuf ? Ces cartes, justement !\nDésormais, chaque nouvelle fonction sera présentée comme ça, pour que ce soit plus clair.\n\nTu peux revoir ces nouveautés, et la toute nouvelle *visite de bienvenue*, quand tu veux.",
+      "Info Tab": "Onglet Infos",
+      "We moved around some Setting items into a new tab: *Info* tab.\n\nHere you can view credits, support & feedback sections.\nMore importantly, you can check and replay Welcome Tour and version changelog tour decks in *Feature Guide* sub-page \n": "Certains éléments des Paramètres ont déménagé dans un nouvel onglet : *Infos*.\n\nTu y trouves les crédits, le soutien et les avis.\nEt surtout, tu peux y revoir la visite de bienvenue et les cartes des nouveautés de chaque version, dans la sous-page *Guide des fonctions*.\n",
+      "Bring Shift back with the controller": "Ramène Shift avec la manette",
+      "Pick a shortcut in *Settings > General > Focus shortcut* and Shift comes to the front from anywhere: a running game, the desktop, another app.\n\nDouble-tap [VIEW] or [MENU], or tap both of them simultaneously.": "Choisis un raccourci dans *Paramètres > Général > Raccourci de focus* et Shift revient au premier plan de n’importe où : un jeu en cours, le bureau, une autre app.\n\nDouble appui sur [VIEW] ou [MENU], ou appuie sur les deux en même temps.",
+      "New: Dedicated *Info tab* in Settings, holding About, Feature Guide, Support and Feedback (previously buried in General).": "Nouveau : un *onglet Infos* dans les Paramètres, avec À propos, Guide des fonctions, Soutien et Avis (avant, c’était caché dans Général).",
+      "New: *Welcome Tour*. First launch now walks you through the interface with highlights over the real controls, fully controller-navigable.": "Nouveau : *visite de bienvenue*. Au premier lancement, elle te fait découvrir l’interface en mettant en avant les vraies commandes, entièrement à la manette.",
+      "New: The \"What's new\" screen after an update is now an illustrated card deck with button glyphs instead of a plain text list. The full text changelog is still there on the last card.": "Nouveau : l’écran « Quoi de neuf » après une mise à jour est maintenant une série de cartes illustrées avec les icônes des boutons, au lieu d’une simple liste. Le changelog complet est toujours sur la dernière carte.",
+      "New: *Feature Guide* (Settings > Info). You can replay the Welcome Tour any time plus the \"what's new\" deck for this release and up to five earlier versions.": "Nouveau : *Guide des fonctions* (Paramètres > Infos). Revois la visite de bienvenue quand tu veux, plus les cartes « quoi de neuf » de cette version et jusqu’à cinq versions avant.",
+      "New: *Focus shortcut*. Pull Shift back to the front with a controller combo while it is running behind another app. Set it in Settings > General > App: off, or double-tap Select + Start. It needs Shift to stay running, and stays silent while an app with administrator rights is in front.": "Nouveau : *raccourci de focus*. Ramène Shift au premier plan avec une combinaison de manette quand il tourne derrière une autre app. Règle-le dans Paramètres > Général > App : off, ou double appui sur Select + Start. Shift doit rester ouvert, et le raccourci ne fait rien quand une app lancée en admin est au premier plan.",
+      "New: Shelf theme shows a shimmer placeholder while artwork loads, matching the other themes.": "Nouveau : le thème Shelf affiche un effet de chargement pendant que les artworks chargent, comme les autres thèmes.",
+      "Swipe navigation reworked: the grid now follows your finger one-to-one, on both axes, on every theme.": "Navigation tactile revue : la grille suit ton doigt au pixel près, sur les deux axes, dans tous les thèmes.",
+      "Major backend refactorings for better app maintainability.": "Gros nettoyage du backend pour une app plus facile à maintenir.",
+      "Button hints in the launch popup are now clickable, so opening it by tapping a tile no longer leaves you stuck without a controller.": "Les aides de boutons de la fenêtre de lancement sont maintenant cliquables : l’ouvrir en touchant une vignette ne te bloque plus sans manette.",
+      "Recently played and Most played no longer list games you have installed but never actually played.": "Joués récemment et Les plus joués n’affichent plus les jeux installés mais jamais lancés.",
+      "Faster, more reliable Steam release-date lookups.": "Recherche des dates de sortie Steam plus rapide et plus fiable.",
+      "Clear cache now asks for confirmation.": "Vider le cache demande maintenant une confirmation.",
+      "Several other performance improvements, bug fixes, and UI polish.": "Plein d’autres optimisations, correctifs et finitions dans l’interface."
+    },
+    "id": {
+      "What's new": "Yang baru",
+      "Focus shortcut, guided tour, smoother themes": "Shortcut fokus, tur, tema lebih mulus",
+      "A tour, and this deck": "Tur, dan deck ini",
+      "What's new? this tour deck is!\nFrom now on every new feature will be introduced this way for better understanding.\n\nYou can replay this changelog tour - along with brand new *Welcome Tour* - whenever you like.   ": "Apa yang baru? Ya deck tur ini!\nMulai sekarang tiap fitur baru bakal dikenalin dengan cara ini biar lebih gampang dipahami.\n\nKamu bisa ulang tur changelog ini, bareng *Tur Pengenalan* yang baru, kapan aja.",
+      "Info Tab": "Tab Info",
+      "We moved around some Setting items into a new tab: *Info* tab.\n\nHere you can view credits, support & feedback sections.\nMore importantly, you can check and replay Welcome Tour and version changelog tour decks in *Feature Guide* sub-page \n": "Beberapa item Pengaturan dipindah ke tab baru: tab *Info*.\n\nDi sini ada kredit, dukungan & feedback.\nYang paling penting, kamu bisa lihat dan ulang Tur Pengenalan serta deck changelog tiap versi di sub-halaman *Panduan Fitur*.\n",
+      "Bring Shift back with the controller": "Panggil Shift pakai controller",
+      "Pick a shortcut in *Settings > General > Focus shortcut* and Shift comes to the front from anywhere: a running game, the desktop, another app.\n\nDouble-tap [VIEW] or [MENU], or tap both of them simultaneously.": "Pilih shortcut di *Pengaturan > Umum > Shortcut fokus* dan Shift bakal muncul dari mana aja: game yang lagi jalan, desktop, atau app lain.\n\nTekan 2x [VIEW] atau [MENU], atau tekan dua-duanya bareng.",
+      "New: Dedicated *Info tab* in Settings, holding About, Feature Guide, Support and Feedback (previously buried in General).": "Baru: *Tab Info* khusus di Pengaturan, isinya Tentang, Panduan Fitur, Dukungan, dan Feedback (dulu nyempil di Umum).",
+      "New: *Welcome Tour*. First launch now walks you through the interface with highlights over the real controls, fully controller-navigable.": "Baru: *Tur Pengenalan*. Waktu pertama dibuka, kamu diajak keliling UI dengan sorotan di kontrol aslinya, full bisa pakai controller.",
+      "New: The \"What's new\" screen after an update is now an illustrated card deck with button glyphs instead of a plain text list. The full text changelog is still there on the last card.": "Baru: Layar \"Yang baru\" setelah update sekarang berupa deck kartu bergambar dengan ikon tombol, bukan daftar teks biasa. Changelog lengkap tetap ada di kartu terakhir.",
+      "New: *Feature Guide* (Settings > Info). You can replay the Welcome Tour any time plus the \"what's new\" deck for this release and up to five earlier versions.": "Baru: *Panduan Fitur* (Pengaturan > Info). Kamu bisa ulang Tur Pengenalan kapan aja, plus deck \"yang baru\" untuk rilis ini dan sampai lima versi sebelumnya.",
+      "New: *Focus shortcut*. Pull Shift back to the front with a controller combo while it is running behind another app. Set it in Settings > General > App: off, or double-tap Select + Start. It needs Shift to stay running, and stays silent while an app with administrator rights is in front.": "Baru: *Shortcut fokus*. Tarik Shift ke depan pakai kombinasi tombol controller waktu dia jalan di belakang app lain. Atur di Pengaturan > Umum > App: off, atau tekan 2x Select + Start. Shift harus tetap jalan, dan shortcut-nya diam kalau ada app dengan hak admin di depan.",
+      "New: Shelf theme shows a shimmer placeholder while artwork loads, matching the other themes.": "Baru: Tema Shelf nampilin placeholder shimmer saat artwork loading, sama kayak tema lain.",
+      "Swipe navigation reworked: the grid now follows your finger one-to-one, on both axes, on every theme.": "Navigasi swipe dirombak: grid sekarang ngikutin jari kamu persis, di dua arah, di semua tema.",
+      "Major backend refactorings for better app maintainability.": "Refactor besar di backend biar app lebih gampang dirawat.",
+      "Button hints in the launch popup are now clickable, so opening it by tapping a tile no longer leaves you stuck without a controller.": "Petunjuk tombol di popup launch sekarang bisa diklik, jadi buka popup dengan tap tile nggak bikin kamu nyangkut tanpa controller.",
+      "Recently played and Most played no longer list games you have installed but never actually played.": "Baru dimainkan dan Paling sering dimainkan nggak lagi nampilin game yang terinstal tapi belum pernah dimainkan.",
+      "Faster, more reliable Steam release-date lookups.": "Pencarian tanggal rilis Steam lebih cepat dan stabil.",
+      "Clear cache now asks for confirmation.": "Hapus cache sekarang minta konfirmasi dulu.",
+      "Several other performance improvements, bug fixes, and UI polish.": "Beberapa peningkatan performa lain, perbaikan bug, dan polesan UI."
+    }
+  }
 }
