@@ -63,5 +63,51 @@
     "Left analog stick and keyboard arrows now do hold/burst navigation, just like the d-pad.",
     "Steam catalog: unreleased games now carry a \"Coming\" badge with their date.",
     "Several other performance improvements, bug fixes, and UI polish."
-  ]
+  ],
+  "translations": {
+    "fr": {
+      "What's new": "Quoi de neuf",
+      "Live player count and a new launch screen": "Joueurs en direct et nouvel écran de lancement",
+      "How many people are playing, right now": "Combien de joueurs, en ce moment",
+      "The launch popup carries a live player count from Steam, for every game in your library rather than only the Steam ones.\n\nThe popup itself is optional: turn it on in *Settings > General > App*.": "La fenêtre de lancement affiche le nombre de joueurs Steam en direct, pour tous les jeux de ta bibliothèque, pas seulement ceux de Steam.\n\nLa fenêtre est optionnelle : active-la dans *Paramètres > Général > App*.",
+      "A launch screen worth looking at": "Un écran de lancement qui a de la gueule",
+      "Starting a game now fills the screen with its artwork, animated, with a line of text picked at random while you wait.": "Lancer un jeu remplit maintenant l’écran avec son artwork animé, et une petite phrase au hasard pendant l’attente.",
+      "Official Steam artwork as a fallback": "Les artworks officiels Steam en secours",
+      "A game with no community artwork now falls back to the official art from its store page.\n\nThe Artwork Picker shows those too, labelled *official*.": "Un jeu sans artwork de la communauté utilise maintenant l’artwork officiel de sa page store.\n\nLe sélecteur d’artworks les montre aussi, avec la mention *official*.",
+      "Idle hiding, on your terms": "Le masquage auto, comme tu veux",
+      "*Hide games on inactivity* used to be on or off. It now takes a delay anywhere between 5 and 15 seconds, or none at all.": "*Masquer les jeux en cas d’inactivité*, c’était on ou off. Maintenant tu choisis un délai entre 5 et 15 secondes, ou pas de délai du tout.",
+      "A quieter Steam": "Un Steam plus discret",
+      "Shift now keeps the Steam client from appearing on top of you when it launches a game or switches accounts.\n\nSteam catalog: a game that has not shipped yet carries a *Coming* badge with its date.": "Shift empêche maintenant le client Steam de te passer devant quand il lance un jeu ou change de compte.\n\nCatalogue Steam : un jeu pas encore sorti a un badge *Bientôt* avec sa date.",
+      "New: Live Steam player count in the launch popup. The data is taken from the Steam API and applied to all games, including non-Steam ones. You have to enable launch confirmation in Settings > General > App.": "Nouveau : nombre de joueurs Steam en direct dans la fenêtre de lancement. Les données viennent de l’API Steam et valent pour tous les jeux, même hors Steam. Il faut activer la confirmation avant lancement dans Paramètres > Général > App.",
+      "New: Revamped launch screen. Now with animated fullscreen artwork and some random text.": "Nouveau : écran de lancement revu, avec un artwork animé en plein écran et un peu de texte au hasard.",
+      "New: Official Steam artwork as a fallback. Games with no community artwork now use the official art from their store page. The Artwork Picker page shows it too, labelled *official*.": "Nouveau : les artworks officiels Steam en secours. Les jeux sans artwork de la communauté utilisent l’artwork officiel de leur page store. Le sélecteur d’artworks le montre aussi, avec la mention *official*.",
+      "Adjustable idle delay. \"Hide games on inactivity\" can now be set anywhere from 5 to 15 seconds, or turned off. It used to be just on or off.": "Délai d’inactivité réglable. « Masquer les jeux en cas d’inactivité » se règle entre 5 et 15 secondes, ou se coupe. Avant, c’était juste on ou off.",
+      "Suppressed Steam's UI in some scenarios. Shift now tries to prevent the Steam client from showing up when launching a game or switching accounts.": "L’interface de Steam est masquée dans certains cas. Shift essaie d’empêcher le client Steam de s’afficher quand il lance un jeu ou change de compte.",
+      "Left analog stick and keyboard arrows now do hold/burst navigation, just like the d-pad.": "Le stick gauche et les flèches du clavier gèrent maintenant la navigation en maintenant appuyé, comme la croix.",
+      "Steam catalog: unreleased games now carry a \"Coming\" badge with their date.": "Catalogue Steam : les jeux pas encore sortis ont un badge « Bientôt » avec leur date.",
+      "Several other performance improvements, bug fixes, and UI polish.": "Plein d’autres optimisations, correctifs et finitions dans l’interface."
+    },
+    "id": {
+      "What's new": "Yang baru",
+      "Live player count and a new launch screen": "Jumlah pemain live dan layar launch baru",
+      "How many people are playing, right now": "Berapa orang yang lagi main, sekarang",
+      "The launch popup carries a live player count from Steam, for every game in your library rather than only the Steam ones.\n\nThe popup itself is optional: turn it on in *Settings > General > App*.": "Popup launch nampilin jumlah pemain live dari Steam, untuk semua game di library kamu, bukan cuma game Steam.\n\nPopup-nya opsional: nyalain di *Pengaturan > Umum > App*.",
+      "A launch screen worth looking at": "Layar launch yang enak dilihat",
+      "Starting a game now fills the screen with its artwork, animated, with a line of text picked at random while you wait.": "Waktu mulai game, layar sekarang penuh dengan artwork-nya yang beranimasi, plus sebaris teks acak selama kamu nunggu.",
+      "Official Steam artwork as a fallback": "Artwork resmi Steam sebagai cadangan",
+      "A game with no community artwork now falls back to the official art from its store page.\n\nThe Artwork Picker shows those too, labelled *official*.": "Game tanpa artwork komunitas sekarang pakai artwork resmi dari halaman store-nya.\n\nArtwork Picker juga nampilinnya, dengan label *official*.",
+      "Idle hiding, on your terms": "Sembunyi saat idle, sesukamu",
+      "*Hide games on inactivity* used to be on or off. It now takes a delay anywhere between 5 and 15 seconds, or none at all.": "*Sembunyikan game saat idle* dulu cuma on atau off. Sekarang bisa diatur jedanya dari 5 sampai 15 detik, atau tanpa jeda sama sekali.",
+      "A quieter Steam": "Steam yang lebih kalem",
+      "Shift now keeps the Steam client from appearing on top of you when it launches a game or switches accounts.\n\nSteam catalog: a game that has not shipped yet carries a *Coming* badge with its date.": "Shift sekarang mencegah Steam nongol di depan saat launch game atau ganti akun.\n\nKatalog Steam: game yang belum rilis dapat badge *Segera* plus tanggalnya.",
+      "New: Live Steam player count in the launch popup. The data is taken from the Steam API and applied to all games, including non-Steam ones. You have to enable launch confirmation in Settings > General > App.": "Baru: Jumlah pemain Steam live di popup launch. Datanya diambil dari API Steam dan berlaku untuk semua game, termasuk yang bukan dari Steam. Konfirmasi sebelum launch harus dinyalain di Pengaturan > Umum > App.",
+      "New: Revamped launch screen. Now with animated fullscreen artwork and some random text.": "Baru: Layar launch dirombak. Sekarang dengan artwork fullscreen beranimasi dan sedikit teks acak.",
+      "New: Official Steam artwork as a fallback. Games with no community artwork now use the official art from their store page. The Artwork Picker page shows it too, labelled *official*.": "Baru: Artwork resmi Steam sebagai cadangan. Game tanpa artwork komunitas sekarang pakai artwork resmi dari halaman store-nya. Halaman Artwork Picker juga nampilinnya, dengan label *official*.",
+      "Adjustable idle delay. \"Hide games on inactivity\" can now be set anywhere from 5 to 15 seconds, or turned off. It used to be just on or off.": "Jeda idle bisa diatur. \"Sembunyikan game saat idle\" sekarang bisa diatur dari 5 sampai 15 detik, atau dimatiin. Dulu cuma on atau off.",
+      "Suppressed Steam's UI in some scenarios. Shift now tries to prevent the Steam client from showing up when launching a game or switching accounts.": "UI Steam diredam di beberapa situasi. Shift sekarang berusaha mencegah Steam nongol saat launch game atau ganti akun.",
+      "Left analog stick and keyboard arrows now do hold/burst navigation, just like the d-pad.": "Analog kiri dan panah keyboard sekarang bisa navigasi tahan/beruntun, sama kayak d-pad.",
+      "Steam catalog: unreleased games now carry a \"Coming\" badge with their date.": "Katalog Steam: game yang belum rilis sekarang dapat badge \"Segera\" plus tanggalnya.",
+      "Several other performance improvements, bug fixes, and UI polish.": "Beberapa peningkatan performa lain, perbaikan bug, dan polesan UI."
+    }
+  }
 }
