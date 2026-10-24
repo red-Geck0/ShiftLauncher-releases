@@ -37,5 +37,37 @@
     "Fixed scrolling hiccups on the Shelf theme.",
     "Updated retrieval timing for Steam playtime data.",
     "Several other performance improvements, bug fixes, and UI polish."
-  ]
+  ],
+  "translations": {
+    "fr": {
+      "What's new": "Quoi de neuf",
+      "Classic theme and tile spacing": "Thème Classic et espacement des vignettes",
+      "Classic theme": "Thème Classic",
+      "A clean, grid-only layout with nothing above it. Pick it in *Settings > Visuals > Themes*.": "Une disposition épurée, juste la grille, rien au-dessus. Choisis-la dans *Paramètres > Affichage > Thèmes*.",
+      "Tile gap": "Espace entre vignettes",
+      "How much air sits between tiles is now yours to set, in Theme Settings, and it applies to every theme rather than one.": "Tu règles maintenant l’espace entre les vignettes dans Réglages du thème, et ça vaut pour tous les thèmes, pas un seul.",
+      "Smoother, and more accurate": "Plus fluide, et plus précis",
+      "Scrolling hiccups on the Shelf theme are gone, Steam playtime is fetched on better timing, and the usual round of performance work and polish came along with it.": "Fini les à-coups de défilement du thème Shelf, le temps de jeu Steam est récupéré au bon moment, avec la tournée habituelle d’optimisations et de finitions.",
+      "New: *Classic theme*, a clean grid-only layout.": "Nouveau : *thème Classic*, une disposition épurée avec juste la grille.",
+      "New: Tile gap option in Theme Settings, works across all themes.": "Nouveau : option d’espace entre vignettes dans Réglages du thème, pour tous les thèmes.",
+      "Fixed scrolling hiccups on the Shelf theme.": "Corrigé : les à-coups de défilement du thème Shelf.",
+      "Updated retrieval timing for Steam playtime data.": "Meilleur timing pour récupérer le temps de jeu Steam.",
+      "Several other performance improvements, bug fixes, and UI polish.": "Plein d’autres optimisations, correctifs et finitions dans l’interface."
+    },
+    "id": {
+      "What's new": "Yang baru",
+      "Classic theme and tile spacing": "Tema Classic dan jarak tile",
+      "Classic theme": "Tema Classic",
+      "A clean, grid-only layout with nothing above it. Pick it in *Settings > Visuals > Themes*.": "Layout bersih, cuma grid tanpa apa-apa di atasnya. Pilih di *Pengaturan > Tampilan > Tema*.",
+      "Tile gap": "Jarak tile",
+      "How much air sits between tiles is now yours to set, in Theme Settings, and it applies to every theme rather than one.": "Jarak antar tile sekarang bisa kamu atur sendiri di Pengaturan Tema, dan berlaku untuk semua tema, bukan cuma satu.",
+      "Smoother, and more accurate": "Lebih mulus, lebih akurat",
+      "Scrolling hiccups on the Shelf theme are gone, Steam playtime is fetched on better timing, and the usual round of performance work and polish came along with it.": "Scroll patah-patah di tema Shelf sudah hilang, playtime Steam diambil di waktu yang lebih pas, plus seperti biasa peningkatan performa dan polesan.",
+      "New: *Classic theme*, a clean grid-only layout.": "Baru: *Tema Classic*, layout bersih yang cuma grid.",
+      "New: Tile gap option in Theme Settings, works across all themes.": "Baru: Opsi jarak tile di Pengaturan Tema, berlaku untuk semua tema.",
+      "Fixed scrolling hiccups on the Shelf theme.": "Scroll patah-patah di tema Shelf sudah diperbaiki.",
+      "Updated retrieval timing for Steam playtime data.": "Timing ambil data playtime Steam diperbarui.",
+      "Several other performance improvements, bug fixes, and UI polish.": "Beberapa peningkatan performa lain, perbaikan bug, dan polesan UI."
+    }
+  }
 }
