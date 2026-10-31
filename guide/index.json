@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "1.2.0",
+      "title": "French and Indonesian, All Games tab, your own SteamGridDB key",
+      "translations": {
+        "fr": {
+          "French and Indonesian, All Games tab, your own SteamGridDB key": "Français et indonésien, onglet Tous les jeux, ta propre clé SteamGridDB"
+        },
+        "id": {
+          "French and Indonesian, All Games tab, your own SteamGridDB key": "Bahasa Prancis dan Indonesia, tab Semua Game, API key SteamGridDB sendiri"
+        }
+      }
+    },
+    {
       "version": "1.1.9",
       "title": "Supporter Pack release",
       "translations": {
