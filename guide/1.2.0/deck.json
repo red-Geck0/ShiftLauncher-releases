@@ -2,37 +2,73 @@
   "id": "1.2.0",
   "version": "1.2.0",
   "kicker": "What's new",
-  "title": "French and Indonesian, All Games tab, your own SteamGridDB key",
+  "title": "Translations, auto Tags, emulator support, custom SFXs",
   "cards": [
     {
       "id": "card-1",
       "title": "Shift speaks your language",
-      "body": "*Translations!* The whole app is now in *French* and *Indonesian*, the Welcome Tour and these cards included. Error messages too.\n\nAuto picks the first supported language from your Windows preferred languages. Change it any time in [MENU]*Settings > General > App > Language*.\n\nLet me know which language should be added next."
+      "body": "*Translations!* The whole app is now in *French* and *Indonesian*, the Welcome Tour and these cards included. Error messages too.\n\nAuto picks the first supported language from your Windows preferred languages. Change it any time in [MENU]*Settings > General > App > Language*.\n\nLet me know which language should be added next.",
+      "art": {
+        "image": "card-1.webp"
+      }
     },
     {
       "id": "card-2",
       "title": "Emulator games",
-      "body": "*Emulator games detection.* Shift automatically detects your emulated games, no interaction needed, as long as your emulators are properly configured.\n\nSupported: RetroArch, Dolphin, PCSX2, DuckStation, Ryujinx/Ryubing, yuzu and its forks (Eden, Citron, Sudachi), Cemu, RPCS3, shadPS4, Xenia and PPSSPP. Artwork comes from libretro and SteamGridDB.\n\nIn [MENU]*Settings > Library > Emulators* you can turn an emulator off with [A], point Shift to a program file it could not find with [Y], rescan, or manually add a ROM folder with [X].\n\nLet me know which emulators should be added next."
+      "body": "*Emulator games detection.* Shift automatically detects your emulated games, no interaction needed, as long as your emulators are properly configured.\n\nSupported: RetroArch, Dolphin, PCSX2, DuckStation, Ryujinx/Ryubing, yuzu and its forks (Eden, Citron, Sudachi), Cemu, RPCS3, shadPS4, Xenia and PPSSPP. Artwork comes from libretro and SteamGridDB.\n\nIn [MENU]*Settings > Library > Emulators* you can turn an emulator off with [A], point Shift to a program file it could not find with [Y], rescan, or manually add a ROM folder with [X].\n\nLet me know which emulators should be added next.",
+      "art": {
+        "images": [
+          {
+            "image": "card-2-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-2-after.webp",
+            "label": "After"
+          }
+        ]
+      }
     },
     {
       "id": "card-3",
       "title": "All Games and genre tags",
-      "body": "*All Games* is a new tag in the Installed catalog: every game in one place, first in the tab bar.\n\n*Auto genre tags.* Games without tags get up to two genres from their store (Steam, GOG, Xbox), like Action or RPG. If you edit a game’s tags, its auto genres are removed.\n\nGenre tabs are hidden by default. Show or hide any of these tabs in [MENU]*Settings > Library > Tag Manager*."
+      "body": "*All Games* is a new tag in the Installed catalog: every game in one place, first in the tab bar.\n\n*Auto genre tags.* Games without tags get up to two genres from their store (Steam, GOG, Xbox), like Action or RPG. If you edit a game’s tags, its auto genres are removed.\n\nGenre tabs are hidden by default. Show or hide any of these tabs in [MENU]*Settings > Library > Tag Manager*.",
+      "art": {
+        "image": "card-3.webp"
+      }
     },
     {
       "id": "card-4",
       "title": "Sound sets",
-      "body": "Pick *Arcade*, *Fighter* or *Polygon* in [MENU]*Settings > General > App > Sound set*, and highlight a set to hear it before you choose.\n\n*UI sound* volume is now adjustable, set it from Off to 100%.\n\nSupporter Pack owners can also use the *Custom* set with their own audio files. You can swap individual sound effects of a built-in set too: select that set first (for example Fighter), then select Custom and replace only the sounds you want."
+      "body": "Pick *Arcade*, *Fighter* or *Polygon* in [MENU]*Settings > General > App > Sound set*, and highlight a set to hear it before you choose.\n\n*UI sound* volume is now adjustable, set it from Off to 100%.\n\nSupporter Pack owners can also use the *Custom* set with their own audio files. You can swap individual sound effects of a built-in set too: select that set first (for example Fighter), then select Custom and replace only the sounds you want.",
+      "art": {
+        "images": [
+          {
+            "image": "card-4-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-4-after.webp",
+            "label": "After"
+          }
+        ]
+      }
     },
     {
       "id": "card-5",
       "title": "Note for Xbox mode",
-      "body": "Want Shift to be your home app in Xbox mode? Windows only allows apps registered as a gaming home app, and Shift cannot register itself. Two free community tools can do it for you: *OmniConsoleMod* or *AnyFSE*.\n\nOpen [MENU]*Settings > Info > Note for Xbox mode* for the mini guide. [X] opens the OmniConsoleMod page and [Y] opens the AnyFSE page in your browser."
+      "body": "Want Shift to be your home app in Xbox mode? Windows only allows apps registered as a gaming home app, and Shift cannot register itself. Two free community tools can do it for you: *OmniConsoleMod* or *AnyFSE*.\n\nOpen [MENU]*Settings > Info > Note for Xbox mode* for the mini guide. [X] opens the OmniConsoleMod page and [Y] opens the AnyFSE page in your browser.",
+      "art": {
+        "image": "card-5.webp"
+      }
     },
     {
       "id": "card-6",
       "title": "Your own SteamGridDB key",
-      "body": "Add your own *SteamGridDB API key* in [MENU]*Settings > Account > SteamGridDB*, so artwork lookups no longer share the built-in key’s rate limit."
+      "body": "Add your own *SteamGridDB API key* in [MENU]*Settings > Account > SteamGridDB*, so artwork lookups no longer share the built-in key’s rate limit.",
+      "art": {
+        "image": "card-6.webp"
+      }
     }
   ],
   "changelog": [
@@ -90,7 +126,8 @@
       "Note for Xbox mode": "Note pour le mode Xbox",
       "Want Shift to be your home app in Xbox mode? Windows only allows apps registered as a gaming home app, and Shift cannot register itself. Two free community tools can do it for you: *OmniConsoleMod* or *AnyFSE*.\n\nOpen [MENU]*Settings > Info > Note for Xbox mode* for the mini guide. [X] opens the OmniConsoleMod page and [Y] opens the AnyFSE page in your browser.": "Tu veux que Shift soit ton appli d’accueil en mode Xbox ? Windows n’autorise que les applis enregistrées comme accueil de jeu, et Shift ne peut pas s’enregistrer lui-même. Deux outils gratuits de la communauté peuvent le faire pour toi : *OmniConsoleMod* ou *AnyFSE*.\n\nOuvre [MENU]*Paramètres > Info > Note pour le mode Xbox* pour le mini-guide. [X] ouvre la page d’OmniConsoleMod et [Y] celle d’AnyFSE dans ton navigateur.",
       "Your own SteamGridDB key": "Ta propre clé SteamGridDB",
-      "Add your own *SteamGridDB API key* in [MENU]*Settings > Account > SteamGridDB*, so artwork lookups no longer share the built-in key’s rate limit.": "Ajoute ta propre *clé API SteamGridDB* dans [MENU]*Paramètres > Compte > SteamGridDB*, pour que les recherches d’artworks ne partagent plus la limite de la clé intégrée."
+      "Add your own *SteamGridDB API key* in [MENU]*Settings > Account > SteamGridDB*, so artwork lookups no longer share the built-in key’s rate limit.": "Ajoute ta propre *clé API SteamGridDB* dans [MENU]*Paramètres > Compte > SteamGridDB*, pour que les recherches d’artworks ne partagent plus la limite de la clé intégrée.",
+      "Translations, auto Tags, emulator support, custom SFXs": "Traductions, tags automatiques, prise en charge des émulateurs, sons personnalisés"
     },
     "id": {
       "What's new": "Yang baru",
@@ -125,7 +162,8 @@
       "Note for Xbox mode": "Catatan untuk mode Xbox",
       "Want Shift to be your home app in Xbox mode? Windows only allows apps registered as a gaming home app, and Shift cannot register itself. Two free community tools can do it for you: *OmniConsoleMod* or *AnyFSE*.\n\nOpen [MENU]*Settings > Info > Note for Xbox mode* for the mini guide. [X] opens the OmniConsoleMod page and [Y] opens the AnyFSE page in your browser.": "Mau Shift jadi home app di mode Xbox? Windows cuma mengizinkan app yang terdaftar sebagai gaming home app, dan Shift tidak bisa mendaftarkan dirinya sendiri. Dua tool komunitas gratis bisa melakukannya untukmu: *OmniConsoleMod* atau *AnyFSE*.\n\nBuka [MENU]*Pengaturan > Info > Catatan untuk mode Xbox* untuk mini panduannya. [X] membuka halaman OmniConsoleMod dan [Y] membuka halaman AnyFSE di browser.",
       "Your own SteamGridDB key": "API key SteamGridDB sendiri",
-      "Add your own *SteamGridDB API key* in [MENU]*Settings > Account > SteamGridDB*, so artwork lookups no longer share the built-in key’s rate limit.": "Tambahkan *API key SteamGridDB* milikmu sendiri di [MENU]*Pengaturan > Akun > SteamGridDB*, jadi pencarian artwork nggak lagi berbagi limit dengan key bawaan."
+      "Add your own *SteamGridDB API key* in [MENU]*Settings > Account > SteamGridDB*, so artwork lookups no longer share the built-in key’s rate limit.": "Tambahkan *API key SteamGridDB* milikmu sendiri di [MENU]*Pengaturan > Akun > SteamGridDB*, jadi pencarian artwork nggak lagi berbagi limit dengan key bawaan.",
+      "Translations, auto Tags, emulator support, custom SFXs": "Terjemahan, tag otomatis, dukungan emulator, SFX kustom"
     }
   }
 }
