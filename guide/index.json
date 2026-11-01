@@ -2,13 +2,13 @@
   "versions": [
     {
       "version": "1.2.0",
-      "title": "French and Indonesian, All Games tab, your own SteamGridDB key",
+      "title": "Translations, auto Tags, emulator support, custom SFXs",
       "translations": {
         "fr": {
-          "French and Indonesian, All Games tab, your own SteamGridDB key": "Français et indonésien, onglet Tous les jeux, ta propre clé SteamGridDB"
+          "Translations, auto Tags, emulator support, custom SFXs": "Traductions, tags automatiques, prise en charge des émulateurs, sons personnalisés"
         },
         "id": {
-          "French and Indonesian, All Games tab, your own SteamGridDB key": "Bahasa Prancis dan Indonesia, tab Semua Game, API key SteamGridDB sendiri"
+          "Translations, auto Tags, emulator support, custom SFXs": "Terjemahan, tag otomatis, dukungan emulator, SFX kustom"
         }
       }
     },
