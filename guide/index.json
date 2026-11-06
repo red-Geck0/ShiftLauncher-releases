@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "1.2.1",
+      "title": "HowLongToBeat, Tools & search layout, focus shortcut cycle",
+      "translations": {
+        "fr": {
+          "HowLongToBeat, Tools & search layout, focus shortcut cycle": "HowLongToBeat, affichage des outils et de la recherche, cycle du raccourci de focus"
+        },
+        "id": {
+          "HowLongToBeat, Tools & search layout, focus shortcut cycle": "HowLongToBeat, tampilan Tools & pencarian, siklus shortcut fokus"
+        }
+      }
+    },
+    {
       "version": "1.2.0",
       "title": "Translations, auto Tags, emulator support, custom SFXs",
       "translations": {
