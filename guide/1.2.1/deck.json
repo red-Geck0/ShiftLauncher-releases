@@ -12,7 +12,19 @@
     {
       "id": "card-2",
       "title": "Tools & search layout",
-      "body": "Show the *Tools tab*, *search results*, or both as a plain grid, with its own columns, tile shape, corners and gap.\n\nFind it in [MENU]*Settings > Visuals > Theme > Tools & search layout*. Available in 360x, Spotlight and Shelf, set per theme."
+      "body": "Show the *Tools tab*, *search results*, or both as a plain grid, with its own columns, tile shape, corners and gap.\n\nFind it in [MENU]*Settings > Visuals > Theme > Tools & search layout*. Available in 360x, Spotlight and Shelf, set per theme.",
+      "art": {
+        "images": [
+          {
+            "image": "tools-search-layout-settings.webp",
+            "label": "Settings"
+          },
+          {
+            "image": "tools-search-layout.webp",
+            "label": "Tools tab"
+          }
+        ]
+      }
     },
     {
       "id": "card-3",
@@ -34,6 +46,8 @@
     "Reworked the Feature Guide cards for easier viewing.",
     "Shelf theme now runs on the same DOM as 360x and Spotlight: animated covers work there too.",
     "The Settings panel is a little wider, and the button hints of the Tag Manager and Emulators pages now sit outside the page content.",
+    "Fixed a single press of A also confirming the launch popup.",
+    "Fixed the press that wakes the grid also launching a game.",
     "Fixed Shelf tiles jumping sideways when they lost focus with Pin Active tile on. They now shrink and slide smoothly.",
     "Fixed search results being replaced by the current tab after changing a game's tag from the game menu, or when artwork finished loading.",
     "Fixed the previous game's logo staying on screen while holding a direction in search results.",
@@ -56,6 +70,8 @@
       "Reworked the Feature Guide cards for easier viewing.": "Les cartes du Guide des fonctions ont été retravaillées pour être plus faciles à lire.",
       "Shelf theme now runs on the same DOM as 360x and Spotlight: animated covers work there too.": "Le thème Shelf utilise maintenant le même DOM que 360x et Spotlight : les jaquettes animées y fonctionnent aussi.",
       "The Settings panel is a little wider, and the button hints of the Tag Manager and Emulators pages now sit outside the page content.": "Le panneau Paramètres est un peu plus large, et les aides de boutons des pages Gestion des tags et Émulateurs sont maintenant en dehors du contenu de la page.",
+      "Fixed a single press of A also confirming the launch popup.": "Correction : une seule pression sur A ne valide plus aussi la fenêtre de lancement.",
+      "Fixed the press that wakes the grid also launching a game.": "Correction : la pression qui réveille la grille ne lance plus de jeu.",
       "Fixed Shelf tiles jumping sideways when they lost focus with Pin Active tile on. They now shrink and slide smoothly.": "Correction : les vignettes de Shelf ne sautent plus de côté quand elles perdent le focus avec Épingler la vignette active activé. Elles rétrécissent et glissent maintenant en douceur.",
       "Fixed search results being replaced by the current tab after changing a game's tag from the game menu, or when artwork finished loading.": "Correction : les résultats de recherche ne sont plus remplacés par l’onglet en cours après le changement du tag d’un jeu depuis son menu, ou quand les illustrations ont fini de charger.",
       "Fixed the previous game's logo staying on screen while holding a direction in search results.": "Correction : le logo du jeu précédent ne reste plus à l’écran quand une direction est maintenue dans les résultats de recherche.",
@@ -81,6 +97,8 @@
       "Reworked the Feature Guide cards for easier viewing.": "Kartu Panduan Fitur dirombak supaya lebih mudah dilihat.",
       "Shelf theme now runs on the same DOM as 360x and Spotlight: animated covers work there too.": "Tema Shelf sekarang memakai DOM yang sama dengan 360x dan Spotlight: cover animasi ikut jalan di sana.",
       "The Settings panel is a little wider, and the button hints of the Tag Manager and Emulators pages now sit outside the page content.": "Panel Pengaturan sedikit lebih lebar, dan petunjuk tombol halaman Tag Manager dan Emulator sekarang berada di luar konten halaman.",
+      "Fixed a single press of A also confirming the launch popup.": "Diperbaiki: sekali tekan A tidak lagi ikut mengonfirmasi popup launch.",
+      "Fixed the press that wakes the grid also launching a game.": "Diperbaiki: tekanan yang memunculkan grid tidak lagi ikut memulai game.",
       "Fixed Shelf tiles jumping sideways when they lost focus with Pin Active tile on. They now shrink and slide smoothly.": "Diperbaiki: tile Shelf tidak lagi meloncat ke samping saat kehilangan fokus dengan Pin tile aktif menyala. Sekarang tile mengecil dan bergeser dengan mulus.",
       "Fixed search results being replaced by the current tab after changing a game's tag from the game menu, or when artwork finished loading.": "Diperbaiki: hasil pencarian tidak lagi tertimpa tab yang sedang dibuka setelah tag game diubah dari menu game, atau saat artwork selesai dimuat.",
       "Fixed the previous game's logo staying on screen while holding a direction in search results.": "Diperbaiki: logo game sebelumnya tidak lagi tertinggal di layar saat arah ditahan di hasil pencarian.",
