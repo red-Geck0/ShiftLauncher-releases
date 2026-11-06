@@ -1,0 +1,95 @@
+{
+  "id": "1.2.1",
+  "version": "1.2.1",
+  "kicker": "What's new",
+  "title": "HowLongToBeat, Tools & search layout, focus shortcut cycle",
+  "cards": [
+    {
+      "id": "card-1",
+      "title": "HowLongToBeat times",
+      "body": "See how long a game takes to beat right in the launch popup, and in the Info panel of catalog games.\n\nTurn it off in [MENU]*Settings > General > App > Show HowLongToBeat times*."
+    },
+    {
+      "id": "card-2",
+      "title": "Tools & search layout",
+      "body": "Show the *Tools tab*, *search results*, or both as a plain grid, with its own columns, tile shape, corners and gap.\n\nFind it in [MENU]*Settings > Visuals > Theme > Tools & search layout*. Available in 360x, Spotlight and Shelf, set per theme."
+    },
+    {
+      "id": "card-3",
+      "title": "Focus shortcut cycle",
+      "body": "The *Focus shortcut* (Supporter Pack) now cycles. Press it in another app to bring Shift up. If Shift is on another catalog, press again to jump to the Installed catalog. Press once more to go back to the app you were in.\n\nIt is now ON by default, set to double-tap [VIEW]. Change it in [MENU]*Settings > General > App > Focus shortcut*.",
+      "art": {
+        "image": "focus-shortcut-cycle.webp"
+      }
+    }
+  ],
+  "changelog": [
+    "New: *HowLongToBeat times* in the launch popup and in the Info panel of catalog games, with the parts your playtime has already passed highlighted. Turn it off in Settings > General > App > Show HowLongToBeat times.",
+    "New: *Tools & search layout* in Settings > Visuals > Theme. Show the Tools tab, search results, or both as a plain grid, with its own columns, tile shape, corners and gap. Available in 360x, Spotlight, Shelf, set per theme.",
+    "The *Focus shortcut* (Supporter Pack) now cycles: press it in another app to bring Shift up, press it again to jump to the Installed catalog, and once more to go back to the app you were in. If there is no app to go back to, Shift simply stays on screen.",
+    "Note for Xbox mode: X and Y now open the OmniConsoleMod or AnyFSE settings when they are installed, and LT button copies the ready-made Launcher block for AnyFSE.json.",
+    "The Focus shortcut is now ON by default, set to double-tap View.",
+    "Emulators in Settings > Library are now grouped by console, each with its own page listing its emulators.",
+    "Settings > Account > SteamGridDB: press X to open the page where you get your own API key.",
+    "Reworked the Feature Guide cards for easier viewing.",
+    "Shelf theme now runs on the same DOM as 360x and Spotlight: animated covers work there too.",
+    "The Settings panel is a little wider, and the button hints of the Tag Manager and Emulators pages now sit outside the page content.",
+    "Fixed Shelf tiles jumping sideways when they lost focus with Pin Active tile on. They now shrink and slide smoothly.",
+    "Fixed search results being replaced by the current tab after changing a game's tag from the game menu, or when artwork finished loading.",
+    "Fixed the previous game's logo staying on screen while holding a direction in search results.",
+    "Fixed Shift writing its upcoming Steam releases cache into the wrong folder.",
+    "Several other bug fixes, performance improvements, and UI polish."
+  ],
+  "translations": {
+    "fr": {
+      "What's new": "Quoi de neuf",
+      "HowLongToBeat, Tools & search layout, focus shortcut cycle": "HowLongToBeat, affichage des outils et de la recherche, cycle du raccourci de focus",
+      "HowLongToBeat times": "Durées HowLongToBeat",
+      "See how long a game takes to beat right in the launch popup, and in the Info panel of catalog games.\n\nTurn it off in [MENU]*Settings > General > App > Show HowLongToBeat times*.": "Vois combien de temps il faut pour finir un jeu directement dans la fenêtre de lancement, et dans le panneau Infos des jeux du catalogue.\n\nDésactive-les dans [MENU]*Paramètres > Général > App > Afficher les durées HowLongToBeat*.",
+      "New: *HowLongToBeat times* in the launch popup and in the Info panel of catalog games, with the parts your playtime has already passed highlighted. Turn it off in Settings > General > App > Show HowLongToBeat times.": "Nouveau : *durées HowLongToBeat* dans la fenêtre de lancement et dans le panneau Infos des jeux du catalogue, avec les paliers déjà dépassés par ton temps de jeu mis en évidence. Désactive-les dans Paramètres > Général > App > Afficher les durées HowLongToBeat.",
+      "New: *Tools & search layout* in Settings > Visuals > Theme. Show the Tools tab, search results, or both as a plain grid, with its own columns, tile shape, corners and gap. Available in 360x, Spotlight, Shelf, set per theme.": "Nouveau : *Affichage des outils et de la recherche* dans Paramètres > Affichage > Thème. Affiche l’onglet Outils, les résultats de recherche, ou les deux, en grille simple, avec ses propres colonnes, forme de tuile, coins et espacement. Disponible dans 360x, Spotlight et Shelf, réglé par thème.",
+      "The *Focus shortcut* (Supporter Pack) now cycles: press it in another app to bring Shift up, press it again to jump to the Installed catalog, and once more to go back to the app you were in. If there is no app to go back to, Shift simply stays on screen.": "Le *Raccourci de focus* (Supporter Pack) fonctionne maintenant en cycle : appuie dessus dans une autre app pour faire revenir Shift, appuie encore pour aller au catalogue Installés, puis une fois de plus pour retourner à l’app d’où tu venais. S’il n’y a aucune app où retourner, Shift reste simplement à l’écran.",
+      "Note for Xbox mode: X and Y now open the OmniConsoleMod or AnyFSE settings when they are installed, and LT button copies the ready-made Launcher block for AnyFSE.json.": "Note pour le mode Xbox : X et Y ouvrent maintenant les réglages d’OmniConsoleMod ou d’AnyFSE quand ils sont installés, et le bouton LT copie le bloc Launcher tout prêt pour AnyFSE.json.",
+      "The Focus shortcut is now ON by default, set to double-tap View.": "Le Raccourci de focus est maintenant activé par défaut, réglé sur un double appui sur View.",
+      "Emulators in Settings > Library are now grouped by console, each with its own page listing its emulators.": "Les Émulateurs dans Paramètres > Bibliothèque sont maintenant regroupés par console, chacune avec sa propre page listant ses émulateurs.",
+      "Settings > Account > SteamGridDB: press X to open the page where you get your own API key.": "Paramètres > Compte > SteamGridDB : appuie sur X pour ouvrir la page où obtenir ta propre clé API.",
+      "Reworked the Feature Guide cards for easier viewing.": "Les cartes du Guide des fonctions ont été retravaillées pour être plus faciles à lire.",
+      "Shelf theme now runs on the same DOM as 360x and Spotlight: animated covers work there too.": "Le thème Shelf utilise maintenant le même DOM que 360x et Spotlight : les jaquettes animées y fonctionnent aussi.",
+      "The Settings panel is a little wider, and the button hints of the Tag Manager and Emulators pages now sit outside the page content.": "Le panneau Paramètres est un peu plus large, et les aides de boutons des pages Gestion des tags et Émulateurs sont maintenant en dehors du contenu de la page.",
+      "Fixed Shelf tiles jumping sideways when they lost focus with Pin Active tile on. They now shrink and slide smoothly.": "Correction : les vignettes de Shelf ne sautent plus de côté quand elles perdent le focus avec Épingler la vignette active activé. Elles rétrécissent et glissent maintenant en douceur.",
+      "Fixed search results being replaced by the current tab after changing a game's tag from the game menu, or when artwork finished loading.": "Correction : les résultats de recherche ne sont plus remplacés par l’onglet en cours après le changement du tag d’un jeu depuis son menu, ou quand les illustrations ont fini de charger.",
+      "Fixed the previous game's logo staying on screen while holding a direction in search results.": "Correction : le logo du jeu précédent ne reste plus à l’écran quand une direction est maintenue dans les résultats de recherche.",
+      "Fixed Shift writing its upcoming Steam releases cache into the wrong folder.": "Correction : Shift n’écrit plus son cache des prochaines sorties Steam dans le mauvais dossier.",
+      "Several other bug fixes, performance improvements, and UI polish.": "Plein d’autres correctifs, optimisations et finitions dans l’interface.",
+      "Tools & search layout": "Affichage des outils et de la recherche",
+      "Show the *Tools tab*, *search results*, or both as a plain grid, with its own columns, tile shape, corners and gap.\n\nFind it in [MENU]*Settings > Visuals > Theme > Tools & search layout*. Available in 360x, Spotlight and Shelf, set per theme.": "Affiche l’*onglet Outils*, les *résultats de recherche*, ou les deux, en grille simple, avec ses propres colonnes, forme de tuile, coins et espacement.\n\nC’est dans [MENU]*Paramètres > Affichage > Thème > Affichage des outils et de la recherche*. Disponible dans 360x, Spotlight et Shelf, réglé par thème.",
+      "Focus shortcut cycle": "Cycle du Raccourci de focus",
+      "The *Focus shortcut* (Supporter Pack) now cycles. Press it in another app to bring Shift up. If Shift is on another catalog, press again to jump to the Installed catalog. Press once more to go back to the app you were in.\n\nIt is now ON by default, set to double-tap [VIEW]. Change it in [MENU]*Settings > General > App > Focus shortcut*.": "Le *Raccourci de focus* (Supporter Pack) fonctionne maintenant en cycle. Appuie dessus dans une autre app pour faire revenir Shift. Si Shift est sur un autre catalogue, appuie encore pour aller au catalogue Installés. Appuie une fois de plus pour retourner à l’app d’où tu venais.\n\nIl est maintenant activé par défaut, réglé sur un double appui sur [VIEW]. Change-le dans [MENU]*Paramètres > Général > App > Raccourci de focus*."
+    },
+    "id": {
+      "What's new": "Yang baru",
+      "HowLongToBeat, Tools & search layout, focus shortcut cycle": "HowLongToBeat, tampilan Tools & pencarian, siklus shortcut fokus",
+      "HowLongToBeat times": "Waktu HowLongToBeat",
+      "See how long a game takes to beat right in the launch popup, and in the Info panel of catalog games.\n\nTurn it off in [MENU]*Settings > General > App > Show HowLongToBeat times*.": "Lihat berapa lama sebuah game bisa ditamatkan langsung di popup launch, dan di panel Info game katalog.\n\nMatikan di [MENU]*Pengaturan > Umum > App > Tampilkan waktu HowLongToBeat*.",
+      "New: *HowLongToBeat times* in the launch popup and in the Info panel of catalog games, with the parts your playtime has already passed highlighted. Turn it off in Settings > General > App > Show HowLongToBeat times.": "Baru: *Waktu HowLongToBeat* di popup launch dan di panel Info game katalog, bagian yang sudah dilewati playtime-mu diberi warna. Matikan di Pengaturan > Umum > App > Tampilkan waktu HowLongToBeat.",
+      "New: *Tools & search layout* in Settings > Visuals > Theme. Show the Tools tab, search results, or both as a plain grid, with its own columns, tile shape, corners and gap. Available in 360x, Spotlight, Shelf, set per theme.": "Baru: *Tampilan Tools & pencarian* di Pengaturan > Tampilan > Tema. Tampilkan tab Tools, hasil pencarian, atau keduanya sebagai grid biasa, dengan kolom, bentuk tile, sudut, dan jarak sendiri. Tersedia di 360x, Spotlight, dan Shelf, diatur per tema.",
+      "The *Focus shortcut* (Supporter Pack) now cycles: press it in another app to bring Shift up, press it again to jump to the Installed catalog, and once more to go back to the app you were in. If there is no app to go back to, Shift simply stays on screen.": "*Shortcut fokus* (Supporter Pack) sekarang berputar: tekan di app lain untuk memunculkan Shift, tekan lagi untuk lompat ke katalog Terinstal, lalu sekali lagi untuk kembali ke app sebelumnya. Kalau tidak ada app untuk dituju, Shift tetap tampil di layar.",
+      "Note for Xbox mode: X and Y now open the OmniConsoleMod or AnyFSE settings when they are installed, and LT button copies the ready-made Launcher block for AnyFSE.json.": "Catatan untuk mode Xbox: X dan Y sekarang membuka pengaturan OmniConsoleMod atau AnyFSE kalau sudah terpasang, dan tombol LT menyalin blok Launcher siap pakai untuk AnyFSE.json.",
+      "The Focus shortcut is now ON by default, set to double-tap View.": "Shortcut fokus sekarang ON secara default, diatur ke tekan 2x View.",
+      "Emulators in Settings > Library are now grouped by console, each with its own page listing its emulators.": "Emulator di Pengaturan > Library sekarang dikelompokkan per console, masing-masing punya halaman sendiri berisi emulatornya.",
+      "Settings > Account > SteamGridDB: press X to open the page where you get your own API key.": "Pengaturan > Akun > SteamGridDB: tekan X untuk membuka halaman tempat mengambil API key milikmu sendiri.",
+      "Reworked the Feature Guide cards for easier viewing.": "Kartu Panduan Fitur dirombak supaya lebih mudah dilihat.",
+      "Shelf theme now runs on the same DOM as 360x and Spotlight: animated covers work there too.": "Tema Shelf sekarang memakai DOM yang sama dengan 360x dan Spotlight: cover animasi ikut jalan di sana.",
+      "The Settings panel is a little wider, and the button hints of the Tag Manager and Emulators pages now sit outside the page content.": "Panel Pengaturan sedikit lebih lebar, dan petunjuk tombol halaman Tag Manager dan Emulator sekarang berada di luar konten halaman.",
+      "Fixed Shelf tiles jumping sideways when they lost focus with Pin Active tile on. They now shrink and slide smoothly.": "Diperbaiki: tile Shelf tidak lagi meloncat ke samping saat kehilangan fokus dengan Pin tile aktif menyala. Sekarang tile mengecil dan bergeser dengan mulus.",
+      "Fixed search results being replaced by the current tab after changing a game's tag from the game menu, or when artwork finished loading.": "Diperbaiki: hasil pencarian tidak lagi tertimpa tab yang sedang dibuka setelah tag game diubah dari menu game, atau saat artwork selesai dimuat.",
+      "Fixed the previous game's logo staying on screen while holding a direction in search results.": "Diperbaiki: logo game sebelumnya tidak lagi tertinggal di layar saat arah ditahan di hasil pencarian.",
+      "Fixed Shift writing its upcoming Steam releases cache into the wrong folder.": "Diperbaiki: Shift tidak lagi menulis cache rilis Steam mendatang ke folder yang salah.",
+      "Several other bug fixes, performance improvements, and UI polish.": "Beberapa perbaikan bug lain, peningkatan performa, dan polesan UI.",
+      "Tools & search layout": "Tampilan Tools & pencarian",
+      "Show the *Tools tab*, *search results*, or both as a plain grid, with its own columns, tile shape, corners and gap.\n\nFind it in [MENU]*Settings > Visuals > Theme > Tools & search layout*. Available in 360x, Spotlight and Shelf, set per theme.": "Tampilkan *tab Tools*, *hasil pencarian*, atau keduanya sebagai grid biasa, dengan kolom, bentuk tile, sudut, dan jarak sendiri.\n\nAdanya di [MENU]*Pengaturan > Tampilan > Tema > Tampilan Tools & pencarian*. Tersedia di 360x, Spotlight, dan Shelf, diatur per tema.",
+      "Focus shortcut cycle": "Siklus Shortcut fokus",
+      "The *Focus shortcut* (Supporter Pack) now cycles. Press it in another app to bring Shift up. If Shift is on another catalog, press again to jump to the Installed catalog. Press once more to go back to the app you were in.\n\nIt is now ON by default, set to double-tap [VIEW]. Change it in [MENU]*Settings > General > App > Focus shortcut*.": "*Shortcut fokus* (Supporter Pack) sekarang berputar. Tekan di app lain untuk memunculkan Shift. Kalau Shift sedang di katalog lain, tekan lagi untuk lompat ke katalog Terinstal. Tekan sekali lagi untuk kembali ke app sebelumnya.\n\nSekarang ON secara default, diatur ke tekan 2x [VIEW]. Ubah di [MENU]*Pengaturan > Umum > App > Shortcut fokus*."
+    }
+  }
+}
