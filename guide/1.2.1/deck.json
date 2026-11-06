@@ -7,7 +7,19 @@
     {
       "id": "card-1",
       "title": "HowLongToBeat times",
-      "body": "See how long a game takes to beat right in the launch popup, and in the Info panel of catalog games.\n\nTurn it off in [MENU]*Settings > General > App > Show HowLongToBeat times*."
+      "body": "See how long a game takes to beat right in the launch popup, and in the Info panel of catalog games.\n\nTurn it off in [MENU]*Settings > General > App > Show HowLongToBeat times*.",
+      "art": {
+        "images": [
+          {
+            "image": "card-1-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-1-after.webp",
+            "label": "After"
+          }
+        ]
+      }
     },
     {
       "id": "card-2",
