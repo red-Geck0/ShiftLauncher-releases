@@ -1,6 +1,18 @@
 {
   "versions": [
     {
+      "version": "1.2.2",
+      "title": "Tag icons, tab arranging, Switch 2 emulators",
+      "translations": {
+        "fr": {
+          "Tag icons, tab arranging, Switch 2 emulators": "Icônes de tags, onglets réorganisables, émulateurs Switch 2"
+        },
+        "id": {
+          "Tag icons, tab arranging, Switch 2 emulators": "Ikon tag, atur urutan tab, emulator Switch 2"
+        }
+      }
+    },
+    {
       "version": "1.2.1",
       "title": "HowLongToBeat, Tools & search layout, focus shortcut cycle",
       "translations": {
