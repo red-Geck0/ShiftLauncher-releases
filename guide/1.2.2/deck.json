@@ -9,7 +9,16 @@
       "title": "Tag icons",
       "body": "*Tag icons* (Supporter Pack). Tabs can show an icon instead of their name. Built-in tabs, genres, stores and emulated consoles each come with one, and the Wall theme shows them on its row labels.\n\nChoose how tabs look in [MENU]*Settings > Visuals > General > Tab labels*: names, icons, icons with names, or icons with the active tab’s name.\n\nTo change a tag’s icon, press [X] on it in [MENU]*Settings > Library > Tag Manager*. Pick a built-in icon, use your own image from a link or a file, or choose no icon.",
       "art": {
-        "image": "tag-icon-picker.webp"
+        "images": [
+          {
+            "image": "card-1-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-1-after.webp",
+            "label": "After"
+          }
+        ]
       }
     },
     {
@@ -32,7 +41,19 @@
     {
       "id": "card-3",
       "title": "Upgraded emulator support",
-      "body": "*Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps. Update and DLC files are folded into the game they belong to.\n\n*Run with*. Pick the emulator for one game in the game menu > Tools > Run with, and press [Y] there to make it the console’s default. Defaults per console are also in [MENU]*Settings > Library > Emulators*.\n\nWhen a game uses a different emulator than its console’s default, the launch popup offers both: [A] launches with the game’s own, [Y] once with the default.\n\nEmulated games now get genre tags automatically too."
+      "body": "*Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps. Update and DLC files are folded into the game they belong to.\n\n*Run with*. Pick the emulator for one game in the game menu > Tools > Run with, and press [Y] there to make it the console’s default. Defaults per console are also in [MENU]*Settings > Library > Emulators*.\n\nWhen a game uses a different emulator than its console’s default, the launch popup offers both: [A] launches with the game’s own, [Y] once with the default.\n\nEmulated games now get genre tags automatically too.",
+      "art": {
+        "images": [
+          {
+            "image": "card-3-before.webp",
+            "label": "Before"
+          },
+          {
+            "image": "card-3-after.webp",
+            "label": "After"
+          }
+        ]
+      }
     }
   ],
   "changelog": [
