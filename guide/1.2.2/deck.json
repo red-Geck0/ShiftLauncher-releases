@@ -1,0 +1,119 @@
+{
+  "id": "1.2.2",
+  "version": "1.2.2",
+  "kicker": "What's new",
+  "title": "Tag icons, tab arranging, Switch 2 emulators",
+  "cards": [
+    {
+      "id": "card-1",
+      "title": "Tag icons",
+      "body": "*Tag icons* (Supporter Pack). Tabs can show an icon instead of their name. Built-in tabs, genres, stores and emulated consoles each come with one, and the Wall theme shows them on its row labels.\n\nChoose how tabs look in [MENU]*Settings > Visuals > General > Tab labels*: names, icons, icons with names, or icons with the active tab’s name.\n\nTo change a tag’s icon, press [X] on it in [MENU]*Settings > Library > Tag Manager*. Pick a built-in icon, use your own image from a link or a file, or choose no icon.",
+      "art": {
+        "image": "tag-icon-picker.webp"
+      }
+    },
+    {
+      "id": "card-2",
+      "title": "Better navigation flow",
+      "body": "*Rearrange tabs*. Press [LB] and [RB] together to grab the current tab, move it with [DPAD] left or right, then press [LB] and [RB], [A] or [B] to let go. Works on the Installed tabs, in Settings and in the game menu.\n\n*Jump to the ends*. [LT] and [RT] jump to the first and last item in every grid and menu.\n\nMoving through the grid is smoother too: very large logos and artwork are scaled down once and kept.",
+      "art": {
+        "images": [
+          {
+            "image": "arrange-tabs.webp",
+            "label": "Rearrange tabs"
+          },
+          {
+            "image": "lt-rt-first-last.webp",
+            "label": "Jump to the ends"
+          }
+        ]
+      }
+    },
+    {
+      "id": "card-3",
+      "title": "Upgraded emulator support",
+      "body": "*Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps. Update and DLC files are folded into the game they belong to.\n\n*Run with*. Pick the emulator for one game in the game menu > Tools > Run with, and press [Y] there to make it the console’s default. Defaults per console are also in [MENU]*Settings > Library > Emulators*.\n\nWhen a game uses a different emulator than its console’s default, the launch popup offers both: [A] launches with the game’s own, [Y] once with the default.\n\nEmulated games now get genre tags automatically too."
+    }
+  ],
+  "changelog": [
+    "New: *Tag icons* (Supporter Pack). Tabs can show an icon instead of their name. Choose it in Settings > Visuals > General > Tab labels: names, icons, icons with names, or icons with the active tab's name.",
+    "New: pick the icon of any tag. In the Tag Manager, press X on a tag to open the icon picker (Supporter Pack). Choose from the built-in icons, use your own image from a link or a file, or pick *no icon* to keep a tab as text.",
+    "New: *Rearrange tabs*. Press LB and RB together to grab the current tab, move it with left or right on the D-pad, then press LB and RB, A, or B to let go. Works on the Installed tabs, in Settings, and in the game menu.",
+    "New: LT and RT jump to the first and last item in EVERY grid and menu.",
+    "New: *Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps.",
+    "New: *Run with* (game menu > Tools) picks the emulator for one game. Press Y there to make it the console's default, or set defaults per console in Settings > Library > Emulators.",
+    "New: the launch popup shows which emulator will run the game. If a game uses a different emulator than its console's default, press Y to launch it once with the default.",
+    "New: *Open emulator folder* in the game menu > Tools of an emulated game.",
+    "New: emulated games get genre tags automatically, like the games from stores.",
+    "New: in the Custom sound set (Supporter Pack), X mutes a slot and Y plays it.",
+    "The Wall theme shows the same icons on its row labels.",
+    "Tag Manager: show or hide a tag with left or right on the D-pad. X now opens the icon picker.",
+    "Smoother grid navigation: very large logos and artwork are scaled down once and kept.",
+    "Fixed the left stick stepping two tiles from one push, and the right stick skipping columns on the top row of 360x.",
+    "Steam tiles now show only up-to-date download progress, and mark paused updates.",
+    "Updated naming logic for Nintendo Switch games.",
+    "Fixed a press of A in the launch popup being ignored now and then.",
+    "Fixed a game's logo being replaced by its title for good after it failed to load once.",
+    "Several other bug fixes, performance improvements, and UI polish."
+  ],
+  "translations": {
+    "fr": {
+      "What's new": "Quoi de neuf",
+      "Tag icons, tab arranging, Switch 2 emulators": "Icônes de tags, onglets réorganisables, émulateurs Switch 2",
+      "New: *Tag icons* (Supporter Pack). Tabs can show an icon instead of their name. Choose it in Settings > Visuals > General > Tab labels: names, icons, icons with names, or icons with the active tab's name.": "Nouveau : *Icônes de tags* (Supporter Pack). Les onglets peuvent afficher une icône à la place de leur nom. Choisis-le dans Paramètres > Affichage > Général > Libellés des onglets : noms, icônes, icônes avec noms, ou icônes avec le nom de l’onglet actif.",
+      "New: pick the icon of any tag. In the Tag Manager, press X on a tag to open the icon picker (Supporter Pack). Choose from the built-in icons, use your own image from a link or a file, or pick *no icon* to keep a tab as text.": "Nouveau : choisis l’icône de n’importe quel tag. Dans la Gestion des tags, appuie sur X sur un tag pour ouvrir le sélecteur d’icônes (Supporter Pack). Choisis parmi les icônes intégrées, utilise ta propre image depuis un lien ou un fichier, ou prends *sans icône* pour garder un onglet en texte.",
+      "New: *Rearrange tabs*. Press LB and RB together to grab the current tab, move it with left or right on the D-pad, then press LB and RB, A, or B to let go. Works on the Installed tabs, in Settings, and in the game menu.": "Nouveau : *Réorganiser les onglets*. Appuie sur LB et RB ensemble pour saisir l’onglet actuel, déplace-le avec gauche ou droite sur la croix directionnelle, puis appuie sur LB et RB, A ou B pour le lâcher. Fonctionne sur les onglets Installés, dans les Paramètres et dans le menu du jeu.",
+      "New: LT and RT jump to the first and last item in EVERY grid and menu.": "Nouveau : LT et RT sautent au premier et au dernier élément dans TOUTES les grilles et TOUS les menus.",
+      "New: *Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps.": "Nouveau : *Émulateurs Switch 2*. Eglantine, Lichii et Fritchii sont détectés, ainsi que les dumps NUP, NX, NSZ et XCZ.",
+      "New: *Run with* (game menu > Tools) picks the emulator for one game. Press Y there to make it the console's default, or set defaults per console in Settings > Library > Emulators.": "Nouveau : *Lancer avec* (menu du jeu > Outils) choisit l’émulateur d’un jeu. Appuie sur Y pour en faire l’émulateur par défaut de la console, ou règle les émulateurs par défaut par console dans Paramètres > Bibliothèque > Émulateurs.",
+      "New: the launch popup shows which emulator will run the game. If a game uses a different emulator than its console's default, press Y to launch it once with the default.": "Nouveau : la fenêtre de lancement indique l’émulateur qui va lancer le jeu. Si un jeu utilise un autre émulateur que celui par défaut de sa console, appuie sur Y pour le lancer une fois avec celui par défaut.",
+      "New: *Open emulator folder* in the game menu > Tools of an emulated game.": "Nouveau : *Ouvrir le dossier de l’émulateur* dans le menu du jeu > Outils d’un jeu émulé.",
+      "New: emulated games get genre tags automatically, like the games from stores.": "Nouveau : les jeux émulés reçoivent automatiquement des tags de genre, comme les jeux des boutiques.",
+      "New: in the Custom sound set (Supporter Pack), X mutes a slot and Y plays it.": "Nouveau : dans le jeu de sons Personnalisé (Supporter Pack), X coupe un emplacement et Y le fait entendre.",
+      "The Wall theme shows the same icons on its row labels.": "Le thème Wall affiche les mêmes icônes sur les étiquettes de ses rangées.",
+      "Tag Manager: show or hide a tag with left or right on the D-pad. X now opens the icon picker.": "Gestion des tags : affiche ou masque un tag avec gauche ou droite sur la croix directionnelle. X ouvre maintenant le sélecteur d’icônes.",
+      "Smoother grid navigation: very large logos and artwork are scaled down once and kept.": "Navigation plus fluide dans la grille : les logos et illustrations très grands sont réduits une seule fois puis conservés.",
+      "Fixed the left stick stepping two tiles from one push, and the right stick skipping columns on the top row of 360x.": "Correction : le stick gauche avançait de deux tuiles en une seule poussée, et le stick droit sautait des colonnes sur la rangée du haut de 360x.",
+      "Steam tiles now show only up-to-date download progress, and mark paused updates.": "Les tuiles Steam n’affichent plus que la progression de téléchargement à jour, et signalent les mises à jour en pause.",
+      "Updated naming logic for Nintendo Switch games.": "Logique de nommage des jeux Nintendo Switch mise à jour.",
+      "Fixed a press of A in the launch popup being ignored now and then.": "Correction : un appui sur A dans la fenêtre de lancement était parfois ignoré.",
+      "Fixed a game's logo being replaced by its title for good after it failed to load once.": "Correction : le logo d’un jeu était remplacé définitivement par son titre après un seul échec de chargement.",
+      "Several other bug fixes, performance improvements, and UI polish.": "Plein d’autres correctifs, optimisations et finitions dans l’interface.",
+      "Tag icons": "Icônes de tags",
+      "*Tag icons* (Supporter Pack). Tabs can show an icon instead of their name. Built-in tabs, genres, stores and emulated consoles each come with one, and the Wall theme shows them on its row labels.\n\nChoose how tabs look in [MENU]*Settings > Visuals > General > Tab labels*: names, icons, icons with names, or icons with the active tab’s name.\n\nTo change a tag’s icon, press [X] on it in [MENU]*Settings > Library > Tag Manager*. Pick a built-in icon, use your own image from a link or a file, or choose no icon.": "*Icônes de tags* (Supporter Pack). Les onglets peuvent afficher une icône à la place de leur nom. Les onglets intégrés, les genres, les boutiques et les consoles émulées ont chacun la leur, et le thème Wall les affiche sur les étiquettes de ses rangées.\n\nChoisis l’apparence des onglets dans [MENU]*Paramètres > Affichage > Général > Libellés des onglets* : noms, icônes, icônes avec noms, ou icônes avec le nom de l’onglet actif.\n\nPour changer l’icône d’un tag, appuie sur [X] sur ce tag dans [MENU]*Paramètres > Bibliothèque > Gestion des tags*. Choisis une icône intégrée, utilise ta propre image depuis un lien ou un fichier, ou prends sans icône.",
+      "Better navigation flow": "Navigation plus fluide",
+      "*Rearrange tabs*. Press [LB] and [RB] together to grab the current tab, move it with [DPAD] left or right, then press [LB] and [RB], [A] or [B] to let go. Works on the Installed tabs, in Settings and in the game menu.\n\n*Jump to the ends*. [LT] and [RT] jump to the first and last item in every grid and menu.\n\nMoving through the grid is smoother too: very large logos and artwork are scaled down once and kept.": "*Réorganiser les onglets*. Appuie sur [LB] et [RB] ensemble pour saisir l’onglet actuel, déplace-le avec [DPAD] gauche ou droite, puis appuie sur [LB] et [RB], [A] ou [B] pour le lâcher. Fonctionne sur les onglets Installés, dans les Paramètres et dans le menu du jeu.\n\n*Aller aux extrémités*. [LT] et [RT] sautent au premier et au dernier élément dans toutes les grilles et tous les menus.\n\nLa navigation dans la grille est aussi plus fluide : les logos et illustrations très grands sont réduits une seule fois puis conservés.",
+      "Upgraded emulator support": "Prise en charge des émulateurs améliorée",
+      "*Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps. Update and DLC files are folded into the game they belong to.\n\n*Run with*. Pick the emulator for one game in the game menu > Tools > Run with, and press [Y] there to make it the console’s default. Defaults per console are also in [MENU]*Settings > Library > Emulators*.\n\nWhen a game uses a different emulator than its console’s default, the launch popup offers both: [A] launches with the game’s own, [Y] once with the default.\n\nEmulated games now get genre tags automatically too.": "*Émulateurs Switch 2*. Eglantine, Lichii et Fritchii sont détectés, ainsi que les dumps NUP, NX, NSZ et XCZ. Les fichiers de mise à jour et de DLC sont rattachés au jeu auquel ils appartiennent.\n\n*Lancer avec*. Choisis l’émulateur d’un jeu dans menu du jeu > Outils > Lancer avec, et appuie sur [Y] pour en faire l’émulateur par défaut de la console. Les émulateurs par défaut par console se règlent aussi dans [MENU]*Paramètres > Bibliothèque > Émulateurs*.\n\nQuand un jeu utilise un autre émulateur que celui par défaut de sa console, la fenêtre de lancement propose les deux : [A] lance avec celui du jeu, [Y] une fois avec celui par défaut.\n\nLes jeux émulés reçoivent aussi automatiquement des tags de genre."
+    },
+    "id": {
+      "What's new": "Yang baru",
+      "Tag icons, tab arranging, Switch 2 emulators": "Ikon tag, atur urutan tab, emulator Switch 2",
+      "New: *Tag icons* (Supporter Pack). Tabs can show an icon instead of their name. Choose it in Settings > Visuals > General > Tab labels: names, icons, icons with names, or icons with the active tab's name.": "Baru: *Ikon tag* (Supporter Pack). Tab bisa tampil sebagai ikon, bukan nama. Atur di Pengaturan > Tampilan > Umum > Label tab: nama, ikon, ikon dengan nama, atau ikon dengan nama tab yang aktif.",
+      "New: pick the icon of any tag. In the Tag Manager, press X on a tag to open the icon picker (Supporter Pack). Choose from the built-in icons, use your own image from a link or a file, or pick *no icon* to keep a tab as text.": "Baru: pilih ikon tag mana pun. Di Tag Manager, tekan X pada tag untuk membuka icon picker (Supporter Pack). Pilih dari ikon bawaan, pakai gambarmu sendiri dari link atau file, atau pilih *tanpa ikon* supaya tab tetap tampil sebagai teks.",
+      "New: *Rearrange tabs*. Press LB and RB together to grab the current tab, move it with left or right on the D-pad, then press LB and RB, A, or B to let go. Works on the Installed tabs, in Settings, and in the game menu.": "Baru: *Atur urutan tab*. Tekan LB dan RB bersamaan untuk memegang tab yang sedang aktif, geser dengan kiri atau kanan di D-pad, lalu tekan LB dan RB, A, atau B untuk melepasnya. Berlaku di tab Terinstal, di Pengaturan, dan di menu game.",
+      "New: LT and RT jump to the first and last item in EVERY grid and menu.": "Baru: LT dan RT melompat ke item pertama dan terakhir di SEMUA grid dan menu.",
+      "New: *Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps.": "Baru: *Emulator Switch 2*. Eglantine, Lichii, dan Fritchii terdeteksi, beserta dump NUP, NX, NSZ, dan XCZ.",
+      "New: *Run with* (game menu > Tools) picks the emulator for one game. Press Y there to make it the console's default, or set defaults per console in Settings > Library > Emulators.": "Baru: *Jalankan pakai* (menu game > Tools) memilih emulator untuk satu game. Tekan Y di sana untuk menjadikannya default konsol itu, atau atur default per konsol di Pengaturan > Library > Emulator.",
+      "New: the launch popup shows which emulator will run the game. If a game uses a different emulator than its console's default, press Y to launch it once with the default.": "Baru: popup launch menampilkan emulator yang akan menjalankan game. Kalau game memakai emulator yang berbeda dari default konsolnya, tekan Y untuk menjalankannya sekali dengan emulator default.",
+      "New: *Open emulator folder* in the game menu > Tools of an emulated game.": "Baru: *Buka folder emulator* di menu game > Tools untuk game emulasi.",
+      "New: emulated games get genre tags automatically, like the games from stores.": "Baru: game emulasi otomatis mendapat tag genre, sama seperti game dari toko.",
+      "New: in the Custom sound set (Supporter Pack), X mutes a slot and Y plays it.": "Baru: di set suara Custom (Supporter Pack), X membisukan satu slot dan Y memutarnya.",
+      "The Wall theme shows the same icons on its row labels.": "Tema Wall menampilkan ikon yang sama di label barisnya.",
+      "Tag Manager: show or hide a tag with left or right on the D-pad. X now opens the icon picker.": "Tag Manager: tampilkan atau sembunyikan tag dengan kiri atau kanan di D-pad. X sekarang membuka icon picker.",
+      "Smoother grid navigation: very large logos and artwork are scaled down once and kept.": "Navigasi grid lebih mulus: logo dan artwork yang sangat besar diperkecil sekali lalu disimpan.",
+      "Fixed the left stick stepping two tiles from one push, and the right stick skipping columns on the top row of 360x.": "Diperbaiki: satu dorongan analog kiri melangkah dua tile, dan analog kanan melompati kolom di baris atas 360x.",
+      "Steam tiles now show only up-to-date download progress, and mark paused updates.": "Tile Steam kini hanya menampilkan progres download yang terbaru, dan menandai update yang dijeda.",
+      "Updated naming logic for Nintendo Switch games.": "Logika penamaan game Nintendo Switch diperbarui.",
+      "Fixed a press of A in the launch popup being ignored now and then.": "Diperbaiki: tekanan A di popup launch kadang tidak terbaca.",
+      "Fixed a game's logo being replaced by its title for good after it failed to load once.": "Diperbaiki: logo game berganti jadi judulnya untuk seterusnya setelah sekali gagal dimuat.",
+      "Several other bug fixes, performance improvements, and UI polish.": "Beberapa perbaikan bug lain, peningkatan performa, dan polesan UI.",
+      "Tag icons": "Ikon tag",
+      "*Tag icons* (Supporter Pack). Tabs can show an icon instead of their name. Built-in tabs, genres, stores and emulated consoles each come with one, and the Wall theme shows them on its row labels.\n\nChoose how tabs look in [MENU]*Settings > Visuals > General > Tab labels*: names, icons, icons with names, or icons with the active tab’s name.\n\nTo change a tag’s icon, press [X] on it in [MENU]*Settings > Library > Tag Manager*. Pick a built-in icon, use your own image from a link or a file, or choose no icon.": "*Ikon tag* (Supporter Pack). Tab bisa tampil sebagai ikon, bukan nama. Tab bawaan, genre, toko, dan konsol emulasi masing-masing sudah punya ikon, dan tema Wall menampilkannya di label barisnya.\n\nAtur tampilan tab di [MENU]*Pengaturan > Tampilan > Umum > Label tab*: nama, ikon, ikon dengan nama, atau ikon dengan nama tab yang aktif.\n\nUntuk mengganti ikon tag, tekan [X] pada tag itu di [MENU]*Pengaturan > Library > Tag Manager*. Pilih ikon bawaan, pakai gambarmu sendiri dari link atau file, atau pilih tanpa ikon.",
+      "Better navigation flow": "Navigasi lebih lancar",
+      "*Rearrange tabs*. Press [LB] and [RB] together to grab the current tab, move it with [DPAD] left or right, then press [LB] and [RB], [A] or [B] to let go. Works on the Installed tabs, in Settings and in the game menu.\n\n*Jump to the ends*. [LT] and [RT] jump to the first and last item in every grid and menu.\n\nMoving through the grid is smoother too: very large logos and artwork are scaled down once and kept.": "*Atur urutan tab*. Tekan [LB] dan [RB] bersamaan untuk memegang tab yang sedang aktif, geser dengan [DPAD] kiri atau kanan, lalu tekan [LB] dan [RB], [A], atau [B] untuk melepasnya. Berlaku di tab Terinstal, di Pengaturan, dan di menu game.\n\n*Lompat ke ujung*. [LT] dan [RT] melompat ke item pertama dan terakhir di semua grid dan menu.\n\nNavigasi grid juga lebih mulus: logo dan artwork yang sangat besar diperkecil sekali lalu disimpan.",
+      "Upgraded emulator support": "Dukungan emulator ditingkatkan",
+      "*Switch 2 emulators*. Eglantine, Lichii and Fritchii are detected, along with NUP, NX, NSZ and XCZ dumps. Update and DLC files are folded into the game they belong to.\n\n*Run with*. Pick the emulator for one game in the game menu > Tools > Run with, and press [Y] there to make it the console’s default. Defaults per console are also in [MENU]*Settings > Library > Emulators*.\n\nWhen a game uses a different emulator than its console’s default, the launch popup offers both: [A] launches with the game’s own, [Y] once with the default.\n\nEmulated games now get genre tags automatically too.": "*Emulator Switch 2*. Eglantine, Lichii, dan Fritchii terdeteksi, beserta dump NUP, NX, NSZ, dan XCZ. File update dan DLC digabung ke game pemiliknya.\n\n*Jalankan pakai*. Pilih emulator untuk satu game di menu game > Tools > Jalankan pakai, lalu tekan [Y] di sana untuk menjadikannya default konsol itu. Default per konsol juga ada di [MENU]*Pengaturan > Library > Emulator*.\n\nKalau game memakai emulator yang berbeda dari default konsolnya, popup launch menawarkan keduanya: [A] menjalankan dengan emulator game itu, [Y] sekali dengan emulator default.\n\nGame emulasi sekarang juga otomatis mendapat tag genre."
+    }
+  }
+}
